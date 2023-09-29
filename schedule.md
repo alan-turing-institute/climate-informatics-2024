@@ -5,7 +5,7 @@ title: Schedule
 
 
 <script>
-const ALL_DAYS = ["07-23", "07-24", "07-25", "07-26"];
+const ALL_DAYS = ["04-22", "04-23", "04-24", "04-25"];
 
 function setupActiveDayTab(activeDay) {
     /* First, remove the "active" classname for all tabs */
@@ -39,66 +39,66 @@ function showScheduleForDay(day) {
 
 
 <div class="schedule-days">
-  <div id="day-07-23" class="schedule-day active" onclick="showScheduleForDay('07-23')">July 23</div>
-  <div id="day-07-24" class="schedule-day" onclick="showScheduleForDay('07-24')">July 24</div>
-  <div id="day-07-25" class="schedule-day" onclick="showScheduleForDay('07-25')">July 25</div>
-  <div id="day-07-26" class="schedule-day" onclick="showScheduleForDay('07-26')">July 26</div>
+  <div id="day-04-22" class="schedule-day active" onclick="showScheduleForDay('04-22')">22nd April</div>
+  <div id="day-04-23" class="schedule-day" onclick="showScheduleForDay('04-23')">23rd April</div>
+  <div id="day-04-24" class="schedule-day" onclick="showScheduleForDay('04-24')">24th April</div>
+  <div id="day-04-25" class="schedule-day" onclick="showScheduleForDay('04-25')">25th April</div>
 </div>
 
 <h5 style="text-align: center;">
-GMT-4
+UTC
 </h5>
 
-<div id="schedule-07-23" class="schedule-block">
-    <h4>July 23, Sunday</h4>
+<div id="schedule-04-22" class="schedule-block">
+    <h4>Monday 22nd April 2024</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
                 <td>GMT-4</td>
-                <td>OPEN SCIENCE ROOM</td>
+                <td>TRAINING AND HACKATHON</td>
             </tr>
             <tr>
                 <td>8:00-9:00</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2023/panel/" target="_blank">Panel:</a> Telehealth as a tool for open data research and sharing</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="" target="_blank">Training 1:</a> Abstract</div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
                 </td>
             </tr>
             <tr>
                 <td>10:30-11:30</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2023/emergent/" target="_blank">Emergent Session:</a> BIDS Townhall</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-1" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="" target="_blank">Training 2:</a> Abstract</div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
                 </td>
             </tr>
             <tr>
                 <td>11:30-12:15</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2023/tabletalk/" target="_blank">Table Topic Discussion:</a> Telehealth as a tool for open data research and sharing in neurosciences</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-table-telehealth" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="" target="_blank">Lunch:</a> Abstract</div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
                 </td>
             </tr>
             <tr>
                 <td>14:15-15:30</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2023/panel/" target="_blank">Panel:</a> Evolution of Open Publishing (To do or not to do? Lessons learnt!)</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-2-evolution-of" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="" target="_blank">Hack 1:</a> Abstract</div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
                 </td>
             </tr>
             <tr>
                 <td>16:45-17:30</td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2023/tabletalk/" target="_blank">Table Topic Discussion:</a> Evolution of Open Publishing</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-table-evolution-of" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="" target="_blank">Hack 2:</a> Abstract</div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
                 </td>
             </tr>
         </table>
     </div>
 </div>
 
-<div id="schedule-07-24" class="schedule-block">
-    <h4>July 24, Monday</h4>
+<div id="schedule-04-23" class="schedule-block">
+    <h4>Tuesday 23rd April 2024</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -138,8 +138,8 @@ GMT-4
     </div>
 </div>
 
-<div id="schedule-07-25" class="schedule-block">
-    <h4>July 25, Tuesday</h4>
+<div id="schedule-04-24" class="schedule-block">
+    <h4>Wednesday 24th April 2024</h4>
 
     <div class="schedule-content">
         <table class="osr-schedule">
@@ -192,9 +192,9 @@ GMT-4
         </table>
     </div>
 </div>
-<div id="schedule-07-26" class="schedule-block">
+<div id="schedule-04-25" class="schedule-block">
 
-    <h4>July 26, Wednesday</h4>
+    <h4>Thursday 25th April</h4>
 
     <div class="schedule-content">   
         <table class="osr-schedule">

@@ -4,7 +4,7 @@
 title: Home
 
 # Short description of your site
-description: Open Science Room 2023
+description: Climate Informatics 2024
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,30 +21,26 @@ description: Open Science Room 2023
 # List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
   About Us:
-    - Formats: "formats"
-    - Code of Conduct: "osr_coc"
-    - Accessibility: "access"
+    - Code of Conduct: "code-of-conduct"
+    - Access: "access"
     - Team: "volunteers"
-    #- Sponsors: "sponsors"
+    - Contribute: "contribute"
   Program:
     #- Self-Nominations: "submit"
     - Schedule: "schedule"
     #- Schedule: "schedule-PLACEHOLDER"
-    - Panels: "panel"
-    - Emergent Sessions: "emergent"
-    - Table Talks: "tabletalk"
-    - Symposium: "symposium"
-    - Educational: "educational"
-
+    - Training: "training"
+    - Hackathon: "hackathon"
+  Submissions: 
+    - Submit: "submit"
+    - Review: "review"
   Register: "register"
-  Volunteering: 
-    - Opportunities: "opportunities"
-    - Get involved!: "volunteer"
+  FAQ: "faq"
   Contact Us: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/OSR_logo_avatar.png"
+avatar: "/img/logo-avatar.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -85,8 +81,8 @@ author:
 social-network-links:
 #  rss: true
 
-  facebook: openscience.ohbm
-  github: ohbm
+  #facebook: openscience.ohbm
+  github: alan-turing-institute/climate-informatics-2024
   twitter: OhbmOpen
 #  reddit: yourname
 #  linkedin: Name
@@ -111,7 +107,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ohbm.github.io/osr2023"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "alan-turing-institute.github.io/climate-informatics-2024/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -174,7 +170,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Amsterdam"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
