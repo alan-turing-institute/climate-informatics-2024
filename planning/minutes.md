@@ -1,3 +1,50 @@
+---
+description: 
+---
+
+
+### 4th October 2023
+
+
+
+
+:::info
+* **Date: 2023-10-04**
+* **Time**: 13:00
+* **Join via**: Zoom
+* **Call recording**: not available
+
+:::
+
+## Attendees
+* Cass
+* Alden
+
+
+## Notes
+* Lelle Demertzi, E&S Grand Challenge Coordinator PMU support - reply to Harry's email - done
+    * tasks required from Lelle with timelines
+        * ==ask her to set up fortnightly with Alden, Cass, Andrew, Alejandro==
+        * Github knowledge level
+    * ==Andrew: list of steering commitee== - requested in email
+        * Set up a meeting with them
+            * Get their run down or documentation of planning
+* Events support
+    * 4h offered?
+    * Requested support: 
+        * Venue: We’re favouring BMA House or Friends House. Are you able to make introductions to the event teams there, or should we take that up ourselves?
+        * Registration: Just to confirm, are you saying that you might be able to allocate 4h to support our event? Are you able to detail what could be covered in that time, so we know what other activities we will need to resource ourselves?
+* Venue
+    * Book venue via Gray Dawes?matthew.bond@gdg.travel. Covers liability issues but will be charged a comission.
+    * ==Alden to connect with BMA House - Speaking to Arielle about previous event hled there organising directly with BMA House==
+    * ==Cass to conenct with Freinds House==
+
+
+
+
+
+----
+
 ### September 29, 2023
 
 #### Attendees
@@ -143,3 +190,5 @@ AC: Who do we need to bring to the table to make this go forward?
     - No costs incurred last year, all volunteer
     - Existing collaborators provided compute
     - Cambridge Univerity Press provided prizes
+
+---
