@@ -1,20 +1,77 @@
 ---
-description: 
+tags: meeting
+description: Organising for Climate Informatics 2024
 ---
 
-
-### 4th October 2023
-
-
-
-
 :::info
-* **Date: 2023-10-04**
-* **Time**: 13:00
-* **Join via**: Zoom
-* **Call recording**: not available
-
+**Contents**
+[TOC]
 :::
+
+---
+
+```
+# Meeting 2023-10-31
+## Apologies
+## Attendees
+## Notes
+```
+==Actions are highlighted yellow==
+
+# Meeting 2023-10-31
+
+## Apologies
+- none
+
+## Attendees
+- Cass
+- Alden
+
+
+## Notes
+
+### Agenda
+1. CI2024 Governance structure
+2. Venue proposal - BMA House
+3. Programme development
+4. AOB
+
+
+### CI2024 Governance structure
+- What are the required organising committees and who will serve on them?
+    - Chairs
+    - Local org
+    - PC
+    - Steering
+    - Treasurer?
+    - Secretary?
+
+- Turing events support: 
+    - Katy Thompson <kthompson@turing.ac.uk> Events, from Jan (meeting December)
+    - Offer: ==x==
+
+
+### Venue
+- BMA House proposal:
+    - n=120 in-person 22nd-24th April
+    - hybrid
+    - ==more details==
+
+### Programme development
+
+
+### AOB
+- [website WIP](https://alan-turing-institute.github.io/climate-informatics-2024/)
+    - Logo graphics? Below from 2023
+        - ![](https://hackmd.io/_uploads/SJGVV26fp.png)
+
+
+---
+
+# Meeting 2023-10-04
+
+## Apologies
+* none
 
 ## Attendees
 * Cass
@@ -22,11 +79,13 @@ description:
 
 
 ## Notes
+* Conference dates: 22-24th April 2024, maybe to 25th if one day of educationals/hackathon
+
 * Lelle Demertzi, E&S Grand Challenge Coordinator PMU support - reply to Harry's email - done
     * tasks required from Lelle with timelines
         * ==ask her to set up fortnightly with Alden, Cass, Andrew, Alejandro==
-        * Github knowledge level
-    * ==Andrew: list of steering commitee== - requested in email
+        * Expereince with github?
+    * ==Andrew: list of steering commitee== - requested in email - [see issue #3](https://github.com/alan-turing-institute/climate-informatics-2024/issues/3)
         * Set up a meeting with them
             * Get their run down or documentation of planning
 * Events support
@@ -38,6 +97,11 @@ description:
     * Book venue via Gray Dawes?matthew.bond@gdg.travel. Covers liability issues but will be charged a comission.
     * ==Alden to connect with BMA House - Speaking to Arielle about previous event hled there organising directly with BMA House==
     * ==Cass to conenct with Freinds House==
+    * Update via Arielle:
+        * Arielle booked the January E&S symposium directly with BMA
+        * BMA has been through contract negotiations with us and are on our preferred supplier list
+        *  look on the Events Toolkit on Mathison for a contact ot book via => ==Kat Winfield kwinfield@bma.org.uk==
+        *  No explicit need to get a quote for a 2nd venue if our preferrer is available. 
 
 
 
@@ -45,20 +109,23 @@ description:
 
 ----
 
-### September 29, 2023
+# Meeting 2023-09-29
 
-#### Attendees
+## Apologies
+* none
+
+## Attendees
 - Andrew McDonald
 - Alejandro
 - Cass
 - Alden
 
-#### Agenda
+## Notes
 - Timelines for CI2024
 - Grand Challange support
 
 
-##### Committee
+### Committee
 - Who did what?
 - Proceedings will be published [journal]
     - Requires peer reivew committee
@@ -92,7 +159,7 @@ AC: Who do we need to bring to the table to make this go forward?
 
 
 
-##### Programme
+### Programme
 - 3 days
 - Early start day 1
 - Poster reception day 1 evening (seperate venue)
@@ -100,15 +167,15 @@ AC: Who do we need to bring to the table to make this go forward?
 - early finish day 3
 - lunch catered in through the college
 
-##### Registration
+### Registration
 - Agree it can be increased this year from last
 
-##### Pannels
+### Pannels
 - EDI in env sci
 - Open sci and repro
 
 
-##### Venue
+### Venue
 - Historocally alternated between Norht America and Europe
 - Context and infrastructure needed to be quick this year => London
 - Live hybrid
@@ -119,16 +186,16 @@ AC: Who do we need to bring to the table to make this go forward?
     - upload to youtube
     - Everyone could upload a video about the poster
 
-##### Deadlines
+### Deadlines
 - Paper submission: Feb
 - Conf reg: 1st April
 
 
-##### Printed handbook
+### Printed handbook
 - See website. Someone at ICCS put this together
     - Talk to Douglas
 
-##### Funding
+### Funding
 - Raise sponsors - ==who to take forward these conversations?==
 - Money in the bank already?
 - recent BAS meeting - a sponsor covere the whole dinner, for example. 
@@ -141,7 +208,7 @@ AC: Who do we need to bring to the table to make this go forward?
         - Will help on engagement, outreach, PR
 
 
-##### Actions
+### Actions
 - Gannt chart
 - ==Build committee lists==
 - assign people to tasks
@@ -166,12 +233,12 @@ AC: Who do we need to bring to the table to make this go forward?
 
 
 
-##### Participants
+### Participants
 - Consistant attendance of around 100
 - Schedule capped for 1 track - this scale works well
 - Might get some more people being in the UK
 
-##### Repro challenge
+### Repro challenge
 - Previous concurrent hackathon
     - Decided this year to not do concurrent, but remote after
 - some feedback from last year
