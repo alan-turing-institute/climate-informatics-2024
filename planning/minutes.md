@@ -21,41 +21,167 @@ description: Organising for Climate Informatics 2024
 # Meeting 2023-10-31
 
 ## Apologies
-- none
+
 
 ## Attendees
 - Cass
 - Alden
+- Lelle
+- Scott
+- Andrew
+- Christian
+- Douglas
 
 
 ## Notes
 
-### Agenda
-1. CI2024 Governance structure
-2. Venue proposal - BMA House
-3. Programme development
-4. AOB
-
+### Date
+- All agreed on 22nd-24th April
+- Fits well to follow [EGU 14-19th April](https://www.egu24.eu), for folks travelling from outside Eurpoe
 
 ### CI2024 Governance structure
+- Mara and Danny ICCS secured the venue
+- We have budget from E&S
+    - ==Lelle to ask Harry to help identify the correct budget code==
+
+- Website: 
+    - ==Get the front page looking good==
+    - ==Get the save the date sent out==
+
+### Submissions
+- Used Microsoft Conference Management Toolkit (CMT) to manage submissions. No issues.
+    - ==Douglas to set up==
+- Review process
+    - Proceedings are directly published as special issue by Cambridge University Press
+    - Want to keep this
+    - CMT has some good functionality for double blinding
+    - Consider adding reproducibility check list to submission requirements
+        - ==Ask Douglas for more information on this.==
+
+### Timelines
+- Follow timeline of 2023
+- Papers submission deadline last week of Jan, then extend for one week
+- Meeting 2023 was very close to same dates, so lets go for the same
+- submission of papers for talks and posters
+- keynotes work out in the next few planning meetings
+    - Not all speakers announced until after Xmas last year
+    - Put together a short list focused on gender balance, career stage, geographical represenation
+        - ==Scott, Andrew, Douglas to start building invited speaker shortlist==
+- Registration
+    - opens after submissions reviewed Feb
+    - keep it open as long as possible, for last minute sign ups.
+    - Turing uses eventsforce for registrations
+        - ==Lelle to look into this==
+    - Speakers 
+        - We will cover registration
+        - ==Lelle: speak to Harry about funding for travel and accomodation for speakers==
+- Dates for 2024:
+    - Submission deadline: 26th January 2023 (AoE) 
+    - Extended submision : 1st February 2023 (AoE)
+    - Notification of paper submission outcome: 23rd February 2023 27th February 2023 (AoE) ==Q: Which of these dates? Or two rounds?==
+    - Registration opens: after submission outcomes
+    - Full programme finalised: ==...==
+    - Registration closes: 12th April or when at capacity
+        
+### Sponsorship
+- ==Douglas: Ask Rich Turner about microsoft research==
+- Deepmind and others near by
+    - Scott:  suggest meeting with @Elisabeth Wadge to discuss options as there are a number of discussions with them at the moment, and we might be able to slip it in somewhere.
+- Would like to cover some ECR travel
+- ==Douglas to reconnect with AWS==
+- Consider 2 year sponsorship plans, to support 2025
+- ==Talk to Turing Philanthropy==
+    - One pager?
+    - Who/when to send
+
+### 2025
+- Discussion ongoing for 2025 and 2026 venues
+- Aiming for 2025 to be hosted in Global South
+    - Build in strategy and activities now to help support equitable delivery
+
+
+### Committees
+- Global South focus for 2025
+    - Need to make sure there is strong representation in organising committee and PC
+- Programme Committee (PC) will be activing as reviewers for submissions
+- Speaker suggestions for previous years have been documented
+    - ==Douglas to retreive docs from previous years and collate suggestions for review by this group==
+
+### Project management
+- All here comfortable with github - use this as our primary holding area
+- Some materials might not be appropriate for public sharing
+    - ==Start a github issue to discuss what materials should not be public, and what conversations should be private on slack==
+- Slack:
+    - Turing workspace: AI for Env
+        - Continue to use this workspace. 
+    - Want everyone to stick around after the event - continued routes for discussion and contribution - so avoid making a new workspace.
+    - ==Set up a channel organising for this group==
+    - ==Discuss at another time what further channels to use for participant comms==
+- ==Github names of this group to be added to the repo==
+    - ampersandmcd
+    - scotthosking
+    - lelle.di
+    - geo-rao
+    - christianfernandez
+- ==Léllé to run a whenisgood for general availablity for a recurring meeting==
+
+
+### Governance
 - What are the required organising committees and who will serve on them?
     - Chairs
+        - Douglas
+        - Scott help on all things, not necessary Chair
+        - Someone from Global South to create overlap with next year
+            - https://deeplearningindaba.com/2023/
+                - Key informatics conference in Africa
+                - Website has list of organising committe etc.
+                - ==Cass will connect with [OLS](https://openlifesci.org) for suggestions==
     - Local org
-    - PC
-    - Steering
-    - Treasurer?
-    - Secretary?
+        - Cass
+        - Léllé
+        - Treasurer?
+            - ==Cass to ask if Turing can nominate/identify someone for this==
+        - Secretary - ==?Lelle==
+        - Events co-ord - Katy Thompson (Turing, availbable from December/January)
+        - Andrew McDonald
+    - Programme commitee
+        - Cambridge Press (Andrew Hyde)
+        - EDI Chair, participant expereince
+        - ECR rep
+            - EGU has a good model for this
+        - ==Suggestion: Reproducibility champion: Dominic Orchard or their postdoc==
+            - CUP badges
+        - Online participation Chair
+            - Want to make sure they are not forgotten!
+            - Every session could have two Chairs - one online and one in person
+            - flatten the process for q's so all (online and in person) come via the same route, e.g. Slido
+            - Discuss re-imagening online posters. Make sure it it timed well in the schedule for best attendance. Perhaps a few days before the conference? ==Continue this discussion==
+    - Steering Group
+        - 4 people team, unchanged
+            - Claire Monteleoni, University of Colorado Boulder (maybe limited capacity)
+            - Jakob Runge, German Aerospace Center (DLR)
+            - Eniko Szekely, Swiss Data Science Center
+            - Anastase Alexandre Charantonis, ENSIIE
+    - ==Get SG to ratify process for selection into committees, and approve final selection==:
+        - Chairs
+        - Programme committee rolls
+- Aim for discussion of nominations at next meeting (approx 14d)
+        - ==Draw up long list of suggestions in 10d==
+        - ==Discuss/agree nominations in the next meeting (14d)==
+        - ==Get Clare and Jakob to review our shortlist==
 
-- Turing events support: 
-    - Katy Thompson <kthompson@turing.ac.uk> Events, from Jan (meeting December)
-    - Offer: ==x==
+
 
 
 ### Venue
 - BMA House proposal:
     - n=120 in-person 22nd-24th April
+        - This should be fine based on last years numbers
+        - ==Reserve tickets for speakers and presenters==
     - hybrid
-    - ==more details==
+    - ==Green light to book for these dates==
+
+
 
 ### Programme development
 
@@ -64,6 +190,11 @@ description: Organising for Climate Informatics 2024
 - [website WIP](https://alan-turing-institute.github.io/climate-informatics-2024/)
     - Logo graphics? Below from 2023
         - ![](https://hackmd.io/_uploads/SJGVV26fp.png)
+
+
+
+
+### Hackathon
 
 
 ---
@@ -104,9 +235,6 @@ description: Organising for Climate Informatics 2024
         *  No explicit need to get a quote for a 2nd venue if our preferrer is available. 
 
 
-
-
-
 ----
 
 # Meeting 2023-09-29
@@ -138,9 +266,10 @@ description: Organising for Climate Informatics 2024
 - CI journal (CUP) were sponsers
     - Andrew Hyde supported meeting delviery
 - CI STeering committee
-    - ==Clare Mont...==
-    - ==Jakob==
-    - ==More names from Andrew==
+    - ==Claire Monteleoni==
+    - ==Jakob Runge==
+    - ==Eniko Szekely==
+    - ==Anastase-Alexandre Charantonis==
 - Hosts handeld:
     - Catering
     - Registration
