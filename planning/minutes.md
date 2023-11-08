@@ -18,6 +18,64 @@ description: Organising for Climate Informatics 2024
 ```
 ==Actions are highlighted yellow==
 
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+# Meeting 2023-11-08
+
+## Apologies
+- Scott
+
+## Attendees
+- Alden
+- Cass
+- Elisabeth Wadge
+
+## Notes
+- CI2024 will be 13th year
+- Small (~150) but estabished group, tightnit community.
+    - Expect it might grow
+- No parrallel sessions
+- Last year Scott on steering committee
+- This year E&S GC hosting, leverage what we're doing to feed into it 
+- Building up reserve and transition for 2025
+    - Better representation, better engagement
+- Why is this a Turing funded activity?
+    - Turing co-branding?
+- Need to pin down whether Scott is wearing his Turing hat
+    - Make clear that this is a GC activity so it can be justified
+- "Sponsorship"?
+    - Promoting business?
+        - Cost, price and value
+    - "Supporting"?
+        - Donor doesn't tell us what to do, but their name is listed
+    - "Brand aliance and sponsorship - can charge a lot of money for this but you really have to deliver"
+- Funding ambitions
+    - No clear communication 
+    - Opportunity cost - staff time
+    - If this becomes a Turing thing - what would that look like over the next 5 things
+    - Can go to big people if we have a big plan!
+        - Can we make this something bigger that no-one can do? Part of the Turing programme of work.
+- Does anyone own it?
+    - Not clear, seems very volunteer run and spread.
+    - Wouldn't want to take it away form the community
+- Would this meeting happen anyway if we weren't doing it? Would Turing want to be doing something like this anyway
+    - Would we be providing leadership or conveining power?
+- We would be setting up the support for whoever to host next year, in line with our values
+    - Would make sense at 150-200k to a donor
+- ==Elizabth will send over some questions for Scott==
+- Need to run it through International team
+- Position carefully around "fairness" - big donors are interested in that
+- Deep Mind should not be approached - stuff happening with Mark G
+- "Don't be afraid to think of everything you need"
+- Dont need money for April conference, so don't need to have names formilised for Apil
+    - Take time to set up the relationships well
+
+
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+
 # Meeting 2023-10-31
 
 ## Apologies
