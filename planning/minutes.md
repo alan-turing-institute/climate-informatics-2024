@@ -20,6 +20,33 @@ description: Organising for Climate Informatics 2024
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
+# Meeting 2023-11-17
+- Intro to the conference and organising
+
+## Apologies
+- none
+
+
+## Attendees
+- Cass
+- Guillaume (webpage: https://gcouairon.github.io/, github: @gcouairon)
+
+
+## Notes
+- Claire asked if he was interested
+- Never been before
+- Background:
+    - image processing
+    - Organising music festivals!
+    - HTML, CSS, 
+- ==Guillaume to quick review notes form previous meetings - in this doc==
+    - ==If you're interested, take a look at how we could use github projects to orgnise/communicate  timelines==
+    - [Github repo for website and organsing](https://github.com/alan-turing-institute/climate-informatics-2024)
+- ==Cass: Add Guillaume to ai4environment slack + org channels==
+    - Follow-up by email
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 # Meeting 2023-11-08
 
 ## Apologies
