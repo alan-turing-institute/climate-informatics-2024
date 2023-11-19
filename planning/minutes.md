@@ -20,6 +20,26 @@ description: Organising for Climate Informatics 2024
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
+# Meeting 2023-10-31
+## Apologies
+## Attendees
+## Notes
+
+- ==christianfernandez== - confirm
+
+- ==Green light to book for these dates==
+        - UPDATE: Venue contract reviewed and deposit paid - Thank you, Léllé!
+
+- ==Sponsorship discussions - can this be moved to an issue?==
+
+- [issue #3](https://github.com/alan-turing-institute/climate-informatics-2024/issues/3)
+
+
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+
 # Meeting 2023-11-17
 - Intro to the conference and organising
 
@@ -29,7 +49,7 @@ description: Organising for Climate Informatics 2024
 
 ## Attendees
 - Cass
-- Guillaume (webpage: https://gcouairon.github.io/, github: @gcouairon)
+- Guillaume ([webpage](https://gcouairon.github.io/); github: @gcouairon)
 
 
 ## Notes
@@ -41,6 +61,7 @@ description: Organising for Climate Informatics 2024
     - HTML, CSS, 
 - ==Guillaume to quick review notes form previous meetings - in this doc==
     - ==If you're interested, take a look at how we could use github projects to orgnise/communicate  timelines==
+        - example here for [Assurance Platform](https://github.com/orgs/alan-turing-institute/projects/159/views/5)
     - [Github repo for website and organsing](https://github.com/alan-turing-institute/climate-informatics-2024)
 - ==Cass: Add Guillaume to ai4environment slack + org channels==
     - Follow-up by email
@@ -89,7 +110,8 @@ description: Organising for Climate Informatics 2024
     - Would we be providing leadership or conveining power?
 - We would be setting up the support for whoever to host next year, in line with our values
     - Would make sense at 150-200k to a donor
-- ==Elizabth will send over some questions for Scott==
+- ==Elizabth will send over some questions for Scott== 
+    - UPDATE: received and Scott has replied.
 - Need to run it through International team
 - Position carefully around "fairness" - big donors are interested in that
 - Deep Mind should not be approached - stuff happening with Mark G
@@ -128,20 +150,25 @@ description: Organising for Climate Informatics 2024
 - Mara and Danny ICCS secured the venue
 - We have budget from E&S
     - ==Lelle to ask Harry to help identify the correct budget code==
+        - UPDATE: Harry has made arrangements and given the code to Léllé - Thank you, Harry!
 
 - Website: 
-    - ==Get the front page looking good==
-    - ==Get the save the date sent out==
+    - ==Get the front page looking good== 
+        - [issue #9](https://github.com/alan-turing-institute/climate-informatics-2024/issues/9)
+    - ==Get the save the date sent out== 
+        - [issue #10](https://github.com/alan-turing-institute/climate-informatics-2024/issues/10)
 
 ### Submissions
 - Used Microsoft Conference Management Toolkit (CMT) to manage submissions. No issues.
     - ==Douglas to set up==
+        - [issue #11](https://github.com/alan-turing-institute/climate-informatics-2024/issues/11)
 - Review process
     - Proceedings are directly published as special issue by Cambridge University Press
     - Want to keep this
     - CMT has some good functionality for double blinding
     - Consider adding reproducibility check list to submission requirements
         - ==Ask Douglas for more information on this.==
+            - [issue #12](https://github.com/alan-turing-institute/climate-informatics-2024/issues/12)
 
 ### Timelines
 - Follow timeline of 2023
@@ -151,7 +178,8 @@ description: Organising for Climate Informatics 2024
 - keynotes work out in the next few planning meetings
     - Not all speakers announced until after Xmas last year
     - Put together a short list focused on gender balance, career stage, geographical represenation
-        - ==Scott, Andrew, Douglas to start building invited speaker shortlist==
+            - ==Scott, Andrew, Douglas to start building invited speaker shortlist==
+                - [issue #8](https://github.com/alan-turing-institute/climate-informatics-2024/issues/8)
 - Registration
     - opens after submissions reviewed Feb
     - keep it open as long as possible, for last minute sign ups.
@@ -167,6 +195,7 @@ description: Organising for Climate Informatics 2024
     - Registration opens: after submission outcomes
     - Full programme finalised: ==...==
     - Registration closes: 12th April or when at capacity
+    - ==Publish timelines on website== - UPDATE: [issue #6](https://github.com/alan-turing-institute/climate-informatics-2024/issues/6)
         
 ### Sponsorship
 - ==Douglas: Ask Rich Turner about microsoft research==
@@ -175,7 +204,7 @@ description: Organising for Climate Informatics 2024
 - Would like to cover some ECR travel
 - ==Douglas to reconnect with AWS==
 - Consider 2 year sponsorship plans, to support 2025
-- ==Talk to Turing Philanthropy==
+- ==Talk to Turing Philanthropy== - ==UPDATE: Confirm with Scott and Elizabeth that this conversation and documenting of process can be shared in an issue==
     - One pager?
     - Who/when to send
 
@@ -191,24 +220,28 @@ description: Organising for Climate Informatics 2024
 - Programme Committee (PC) will be activing as reviewers for submissions
 - Speaker suggestions for previous years have been documented
     - ==Douglas to retreive docs from previous years and collate suggestions for review by this group==
+        - [issue #5](https://github.com/alan-turing-institute/climate-informatics-2024/issues/5)
 
 ### Project management
 - All here comfortable with github - use this as our primary holding area
 - Some materials might not be appropriate for public sharing
     - ==Start a github issue to discuss what materials should not be public, and what conversations should be private on slack==
+        - UPDATE: Lets discuss this adhoc, e.g. for sponsorship development. See also [issue #5](https://github.com/alan-turing-institute/climate-informatics-2024/issues/5)
 - Slack:
     - Turing workspace: AI for Env
         - Continue to use this workspace. 
     - Want everyone to stick around after the event - continued routes for discussion and contribution - so avoid making a new workspace.
     - ==Set up a channel organising for this group==
+        - [issue #7](https://github.com/alan-turing-institute/climate-informatics-2024/issues/7)
     - ==Discuss at another time what further channels to use for participant comms==
-- ==Github names of this group to be added to the repo==
+        - [issue #7](https://github.com/alan-turing-institute/climate-informatics-2024/issues/7)
+- Github names of this group to be added to the repo - done
     - ampersandmcd
     - scotthosking
     - lelle.di
     - geo-rao
-    - christianfernandez
-- ==Léllé to run a whenisgood for general availablity for a recurring meeting==
+    - ==christianfernandez== - confirm
+- Léllé to run a whenisgood for general availablity for a recurring meeting - done
 
 
 ### Governance
@@ -221,36 +254,43 @@ description: Organising for Climate Informatics 2024
                 - Key informatics conference in Africa
                 - Website has list of organising committe etc.
                 - ==Cass will connect with [OLS](https://openlifesci.org) for suggestions==
+                    - UPDATE: Cass emailed Malvika
     - Local org
         - Cass
         - Léllé
         - Treasurer?
             - ==Cass to ask if Turing can nominate/identify someone for this==
+                - [issue #3](https://github.com/alan-turing-institute/climate-informatics-2024/issues/3)
         - Secretary - ==?Lelle==
+            - [issue #3](https://github.com/alan-turing-institute/climate-informatics-2024/issues/3)
         - Events co-ord - Katy Thompson (Turing, availbable from December/January)
         - Andrew McDonald
-    - Programme commitee
+    - ==Programme commitee==
         - Cambridge Press (Andrew Hyde)
         - EDI Chair, participant expereince
         - ECR rep
             - EGU has a good model for this
         - ==Suggestion: Reproducibility champion: Dominic Orchard or their postdoc==
+            - [issue #12](https://github.com/alan-turing-institute/climate-informatics-2024/issues/12)
             - CUP badges
         - Online participation Chair
             - Want to make sure they are not forgotten!
             - Every session could have two Chairs - one online and one in person
             - flatten the process for q's so all (online and in person) come via the same route, e.g. Slido
             - Discuss re-imagening online posters. Make sure it it timed well in the schedule for best attendance. Perhaps a few days before the conference? ==Continue this discussion==
+                - [issue #13](https://github.com/alan-turing-institute/climate-informatics-2024/issues/13)
     - Steering Group
         - 4 people team, unchanged
             - Claire Monteleoni, University of Colorado Boulder (maybe limited capacity)
             - Jakob Runge, German Aerospace Center (DLR)
             - Eniko Szekely, Swiss Data Science Center
             - Anastase Alexandre Charantonis, ENSIIE
-    - ==Get SG to ratify process for selection into committees, and approve final selection==:
+    - ==Get SG to ratify process for selection into committees, and approve final selection==
+        - [issue #3](https://github.com/alan-turing-institute/climate-informatics-2024/issues/3)
         - Chairs
         - Programme committee rolls
 - Aim for discussion of nominations at next meeting (approx 14d)
+    - [issue #3](https://github.com/alan-turing-institute/climate-informatics-2024/issues/3)
         - ==Draw up long list of suggestions in 10d==
         - ==Discuss/agree nominations in the next meeting (14d)==
         - ==Get Clare and Jakob to review our shortlist==
@@ -263,8 +303,10 @@ description: Organising for Climate Informatics 2024
     - n=120 in-person 22nd-24th April
         - This should be fine based on last years numbers
         - ==Reserve tickets for speakers and presenters==
+            - [issue #14](https://github.com/alan-turing-institute/climate-informatics-2024/issues/14)
     - hybrid
     - ==Green light to book for these dates==
+        - UPDATE: Venue contract reviewed and deposit paid - Thank you, Léllé!
 
 
 
@@ -317,7 +359,8 @@ description: Organising for Climate Informatics 2024
         * Arielle booked the January E&S symposium directly with BMA
         * BMA has been through contract negotiations with us and are on our preferred supplier list
         *  look on the Events Toolkit on Mathison for a contact ot book via => ==Kat Winfield kwinfield@bma.org.uk==
-        *  No explicit need to get a quote for a 2nd venue if our preferrer is available. 
+        *  ==No explicit need to get a quote for a 2nd venue if our preferrer is available== 
+            *  UPDATE: Confirm this is correct with Harry/Arielle 
 
 
 ----
@@ -441,7 +484,7 @@ AC: Who do we need to bring to the table to make this go forward?
     - Dense agenda, would be good to have a bit more time
 - ==Set up fortnightly meetings==
     - Go to weekly as closer to deadlines
-- ==Find out more about submission process==
+    - ==Find out more about submission process== - [issue #5](https://github.com/alan-turing-institute/climate-informatics-2024/issues/5)
 
 
 
@@ -456,7 +499,7 @@ AC: Who do we need to bring to the table to make this go forward?
 - Previous concurrent hackathon
     - Decided this year to not do concurrent, but remote after
 - some feedback from last year
-    - ==Get a copy of the feedback==
+    - ==Get a copy of the feedback== - [issue #5](https://github.com/alan-turing-institute/climate-informatics-2024/issues/5)
 - need some mentors, review mentorship programme
 - Ran for one month after the conference - was a bit too demanding
     - ==make shorter this year==
