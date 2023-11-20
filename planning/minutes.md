@@ -11,28 +11,34 @@ description: Organising for Climate Informatics 2024
 ---
 
 ```
-# Meeting 2023-10-31
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+# Meeting yyyy-mm-dd
 ## Apologies
 ## Attendees
 ## Notes
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 ```
 ==Actions are highlighted yellow==
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
-# Meeting 2023-10-31
+# Meeting 2023-11-24
 ## Apologies
 ## Attendees
 ## Notes
+### Updates on issues
+- [issue #3](https://github.com/alan-turing-institute/climate-informatics-2024/issues/3)
+    - ==christianfernandez== - confirm github username
+    - Nominations: 
 
-- ==christianfernandez== - confirm
-
+### Venue
 - ==Green light to book for these dates==
         - UPDATE: Venue contract reviewed and deposit paid - Thank you, Léllé!
 
-- ==Sponsorship discussions - can this be moved to an issue?==
+### Sponsorship
+- ==Sponsorship discussions - can this be moved to an issue or should it be private?==
 
-- [issue #3](https://github.com/alan-turing-institute/climate-informatics-2024/issues/3)
+### AOB
 
 
 
