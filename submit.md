@@ -5,9 +5,22 @@ title: Submit
 
 <div id="submission"></div>
 <br>
-# Submissions NOW OPEN !!!
+# Submissions opening soon !!!
 
-{::options parse_block_html="false" /}
+## Session formats
+
+Submissions will be open for talks and posters. Key note presenters will be nomitated by the [Organising committee](../team#local-organising-committee) and approved by the [Steering Group](../team#steering-group).
+
+### Talks
+<mark>Coming soon: details on how long the talk slots will be</mark>
+
+### Posters
+<mark>Coming soon: details on poster formats</mark>
+
+## Submission review procedure
+<mark>Coming soon: details on how submissions will be reviewed and linked criteria</mark>
+
+<!-- {::options parse_block_html="false" /}
 {::options parse_block_html="true" /}
 
 This year, you can **self-nominate** as a speakers for one of our **panel discussions** and/or submit your own **emergent session**. 

@@ -22,20 +22,20 @@ description: Climate Informatics 2024
 navbar-links:
   About Us:
     - Code of Conduct: "code-of-conduct"
-    - Access: "access"
-    - Team: "volunteers"
-    - Contribute: "contribute"
+    # - Access: "access"
+    - Team: "team"
+    # - Contribute: "contribute"
   Program:
     #- Self-Nominations: "submit"
     - Schedule: "schedule"
-    #- Schedule: "schedule-PLACEHOLDER"
-    - Training: "training"
-    - Hackathon: "hackathon"
+    - Venue: "venue"
+    # - Training: "training"
+    # - Hackathon: "hackathon"
   Submissions: 
     - Submit: "submit"
-    - Review: "review"
+    # - Review: "review"
   Register: "register"
-  FAQ: "faq"
+  # FAQ: "faq"
   Contact Us: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -72,7 +72,7 @@ footer-link-col: "#676AC2"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: OSSIG
+  name: Climate Informatics 2024
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -83,16 +83,15 @@ social-network-links:
 
   #facebook: openscience.ohbm
   github: alan-turing-institute/climate-informatics-2024
-  twitter: OhbmOpen
+  # twitter: OhbmOpen
 #  reddit: yourname
 #  linkedin: Name
-  email: "ohbmopenscience@gmail.com"
-#  email: "ohbm.osr@gmail.com" #this email is still used by past OSR chairs 
+  email: "cgouldvanpraag@turing.ac.uk"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: yourname
 #  instagram: yourname
-  youtube: channel/UChvSitFvqGDeA1y7MJs4CGQ
+  # youtube: channel/UChvSitFvqGDeA1y7MJs4CGQ
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: yourname

@@ -5,7 +5,7 @@ title: Schedule
 
 
 <script>
-const ALL_DAYS = ["04-22", "04-23", "04-24", "04-25"];
+const ALL_DAYS = ["04-22", "04-23", "04-24"];
 
 function setupActiveDayTab(activeDay) {
     /* First, remove the "active" classname for all tabs */
@@ -42,11 +42,17 @@ function showScheduleForDay(day) {
   <div id="day-04-22" class="schedule-day active" onclick="showScheduleForDay('04-22')">22nd April</div>
   <div id="day-04-23" class="schedule-day" onclick="showScheduleForDay('04-23')">23rd April</div>
   <div id="day-04-24" class="schedule-day" onclick="showScheduleForDay('04-24')">24th April</div>
-  <div id="day-04-25" class="schedule-day" onclick="showScheduleForDay('04-25')">25th April</div>
 </div>
 
 <h5 style="text-align: center;">
-UTC
+<mark>Coming soon: Full schedule information will be shared soon!</mark>
+
+<p>
+<b><i>CI2024 will take place 22nd-24th April 2024, in <a href="https://bmahouse.org.uk">BMA House</a>, London, UK.</i></b> 
+<br><br><b>Add a "save the date" to your calendar here:</b> <a title="Add to Calendar" class="addeventatc" data-id="rw19409406" href="https://www.addevent.com/event/rw19409406" target="_blank">Add to Calendar</a> <script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+</p>
+
+<!-- <p>UTC</p> -->
 </h5>
 
 <div id="schedule-04-22" class="schedule-block">
@@ -189,35 +195,6 @@ UTC
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-5" target="_blank">Join on Crowdcast</a></div>
                 </td>
             </tr>
-        </table>
-    </div>
-</div>
-<div id="schedule-04-25" class="schedule-block">
-
-    <h4>Thursday 25th April</h4>
-
-    <div class="schedule-content">   
-        <table class="osr-schedule">
-            <tr>
-                <td>GMT-4</td>
-                <td>OPEN SCIENCE ROOM</td>
-            </tr>
-            <tr>
-                <td>10:30-11:30</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2023/panel/" target="_blank">Panel:</a> Large open data repositories: sustainability and global implications of reuse</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-5-data-reuse" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            <tr>
-                <td>11:45-12:45</td>
-                <td>
-                    <div><a href="https://ohbm.github.io/osr2023/tabletalk/" target="_blank">Table Topic Discussion:</a> Large open data repositories: sustainability and global implications of reuse</div>
-                    <div><a href="https://www.crowdcast.io/e/osr-table-data-reuse" target="_blank">Join on Crowdcast</a></div>
-                </td>
-            </tr>
-            
-            
         </table>
     </div>
 </div>
