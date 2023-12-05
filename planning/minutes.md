@@ -16,31 +16,152 @@ description: Organising for Climate Informatics 2024
 ## Apologies
 ## Attendees
 ## Notes
+### Updates on issues
+### AOB
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 ```
 ==Actions are highlighted yellow==
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
+
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
 # Meeting 2023-11-24
+- Intro to the conference and organising
+
 ## Apologies
+- 
+
+
 ## Attendees
+- Cass
+- Lelle 
+- Andrew McDonald
+- Scott Hosking
+- Alejandro
+- Anastase
+- Meghna
+- Douglas
+- Guillaume
+- Orlando
+
 ## Notes
-### Updates on issues
-- [issue #3](https://github.com/alan-turing-institute/climate-informatics-2024/issues/3)
-    - ==christianfernandez== - confirm github username
-    - Nominations: 
+- Presentation of Cass' [recording on the CI2024 github board with instructions](https://drive.google.com/file/d/1F03WlbZJkmCmZ4sD4dkAinGA4OoEBGsP/view)
+[Github board](https://github.com/alan-turing-institute/climate-informatics-2024) 
+    - [Additional notes on usage of the gh project](https://hackmd.io/@turing-es/SybZGNANp)
+- Pending github invitations - please accept from email notification
+    - Andrew M
+    - Douglas
+    - Lelle
+
+- New folks: what are you github usernames?
+    - Meghna: asthanameghna
+    - Orlando: 
+    - @AnastaseAlex
+
+Going through issues on the GitHub board:
+- SH: Let's make sure online experience is a top priority, as much as in person. Can a sub-group of early career reseachers come together in a meeting to see what kind of formats/setups work best. AM: Online social opportunities for engagement/networking (Orlando, Andrew, Lelle, Meghna-- who else?) --check [Gathertown](https://www.gather.town/ for good online experience) -- 
+- [Resource for reproducibility review guidelines](https://reproducible-agile.github.io/) 
+- CMT setup for submissions (somehow to track whether applicants will need visa, so that they are prioritised) - (new issue)
+- AM for online participation champion (did I pick that up right?)
+- Tidy up [website](https://alan-turing-institute.github.io/climate-informatics-2024/)
+- LD: Send out 'Save the Date' email to mailing list and forward to colleagues to spread the word
+- Submissions to January 26, with extention for a week. Mention selection criteria, and that submission will start in the new year
+- Alejnadro: online training before conference? Cass: TTW/TPS could support delivery
+- It's time to start identifying key speakers for the programme. LD: Send email to build up the list of people in-between us. Spreadsheet to reflect EDI, Douglas will send me. Topics for potential panels, as well.
+- Sponsorships/Travel bursaries tbd
+ ==LD: Agreement with some hotel? Blockbook something==
+- Template for invitation letter for visa
+- Suggestion: CodeCarbon for papers (new issue)
+
+- #3 Committeess
+    - Treasurer ? Turing -- Maybe Katy from Events? (on the basis she can track eventforce registrations)
+    - Orlando
+    - Meghna
+    - Andrew McDonald
+    - Marla (hasn't been able to join yet)
+    - Reproducibility champion: Dominic?  
+
+- #6 governance docs
+    - has douglas got submission process and review criteria?
+
+- #5 feedback from last year - douglas
+
+- #7 slack 
+    - all recieved invite?
+    - later: add E&S TIG and biodiv TIG
+
+- #10 major comms touchpoints
+    - Agree comms touchpoints
+    - Douglas updated CI website?
+
+- #1 Update website
+    - logo and colours agreed?
+
+
 
 ### Venue
-- ==Green light to book for these dates==
-        - UPDATE: Venue contract reviewed and deposit paid - Thank you, Léllé!
+- Venue contract reviewed and deposit being paid - Thank you, Léllé and Harry
 
 ### Sponsorship
 - ==Sponsorship discussions - can this be moved to an issue or should it be private?==
 
-### AOB
 
+### [Schedule from 2023](https://cambridge-iccs.github.io/climate-informatics-2023/fulldetails) (suggestions in brackets)
+### Day 1
+- (10:00/10:30 - Welcome)
+- 11:00-12:00 keynote 1
+- 12:00-12:15 short talk 1
+- 12:15-12:30 short talk 2
+- 12:30-15:00 ??? super long lunch ???
+- 15:00-15:30 short talk 3
+- 15:30-15:45 short talk 4
+- 15:45-16:00 short talk 5
+- 16:00-16:15 short talk 6
+- 16:15-16:30 short talk 7
+- (dinner?)
 
+### Day 2
+- 09:00-09:15 short talk 8
+- 09:15-09:30 short talk 9
+- 09:30-09:45 short talk 10
+- 09:45-10:00 short talk 11
+- 10:00–10:15 short talk 12
+- 10:15–10:30 short talk 13
+- 10:30-11:00 break
+- 11:00–11:15 short talk 14
+- 11:15–11:30 short talk 15
+- 11:30-13:30 lunch
+- 13:30–13:45 short talk 15
+- 13:45–14:00 short talk 16
+- 14:00–15:00 keynote 2
+- 15:30–15:45 break (suggest this is 30 min)
+- 15:45–16:00 short talk 17
+- 16:00–16:15 short talk 18
+- 16:15–16:30 short talk 19
+- 16:30–16:45 short talk 20
+- 16:45–17:00 short talk 21
+
+### Day 3
+- 09:00-09:15 short talk 22
+- 09:15-09:30 short talk 23
+- 09:30-09:45 short talk 24
+- 09:45-10:00 short talk 25
+- 10:00–10:15 short talk 26
+- 10:15–10:30 short talk 27
+- 10:30-11:00 break
+- 11:00–11:15 short talk 28
+- 11:15–11:30 short talk 29
+- 11:30-11:45 short talk 30
+- 11:45-12:00 short talk 31
+- 12:00–12:15 short talk 32
+
+- no keynote on day 3?
+- closing remarks? Would be ok to close around 14:00?
+- More variety in short talk length. Perhaps 20 min (in questions) and 10 min (7 minutes + 3 questions)
 
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
