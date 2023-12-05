@@ -61,43 +61,46 @@ function showScheduleForDay(day) {
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td>GMT-4</td>
-                <td>TRAINING AND HACKATHON</td>
+                <td>UTC</td>
+                <td>DAY 1</td>
             </tr>
             <tr>
-                <td>8:00-9:00</td>
+                <td><i>time</i></td>
                 <td>
-                    <div><a href="" target="_blank">Training 1:</a> Abstract</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
+                    <div><a href="" target="_blank"><i>session details coming soon</i></a></div>
                 </td>
             </tr>
             <tr>
-                <td>10:30-11:30</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>10:30-11:30</td>
                 <td>
                     <div><a href="" target="_blank">Training 2:</a> Abstract</div>
                     <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
-                </td>
+                </td> -->
             </tr>
             <tr>
-                <td>11:30-12:15</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>11:30-12:15</td>
                 <td>
                     <div><a href="" target="_blank">Lunch:</a> Abstract</div>
                     <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
-                </td>
+                </td> -->
             </tr>
             <tr>
-                <td>14:15-15:30</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>14:15-15:30</td>
                 <td>
                     <div><a href="" target="_blank">Hack 1:</a> Abstract</div>
                     <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
-                </td>
+                </td> -->
             </tr>
             <tr>
-                <td>16:45-17:30</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>16:45-17:30</td>
                 <td>
                     <div><a href="" target="_blank">Hack 2:</a> Abstract</div>
                     <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
-                </td>
+                </td> -->
             </tr>
         </table>
     </div>
@@ -109,36 +112,46 @@ function showScheduleForDay(day) {
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td>GMT-4</td>
-                <td>OPEN SCIENCE ROOM</td>
+                <td>UTC</td>
+                <td>DAY 2</td>
             </tr>
             <tr>
-                <td>8:00-9:00</td>
+                <td><i>time</i></td>
                 <td>
-                    <div><a href="https://ohbm.github.io/osr2023/panel/" target="_blank">Panel:</a> Standardization of Code (tips)</div>
-                    <div><a href="https://www.crowdcast.io/e/panel-3-standardization" target="_blank">Join on Crowdcast</a></div>
+                    <div><a href="" target="_blank"><i>session details coming soon</i></a></div>
                 </td>
             </tr>
             <tr>
-                <td>10:30-11:30</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>10:30-11:30</td>
+                <td>
+                    <div><a href="" target="_blank">Training 2:</a> Abstract</div>
+                    <div><a href="https://www.crowdcast.io/e/panel-1-telehealth" target="_blank">Join on Zoom</a></div>
+                </td> -->
+            </tr>
+            <tr>
+                <!-- uncomment to add session details -->
+                <!-- <td>10:30-11:30</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/emergent/" target="_blank">Emergent Session:</a> Developing a community-driven standard file format for brain tractography</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-2" target="_blank">Join on Crowdcast</a></div>
-                </td>
+                </td> -->
             </tr>
             <tr>
-                <td>12:15-13:00</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>12:15-13:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/tabletalk/" target="_blank">Table Topic Discussion:</a> Standardization of Code</div>
                     <div><a href="https://www.crowdcast.io/e/osr-table-standardization" target="_blank">Join on Crowdcast</a></div>
-                </td>
+                </td> -->
             </tr>
             <tr>
-                <td>14:45-15:45</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>14:45-15:45</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/emergent/" target="_blank">Emergent Session:</a> Discuss ideas for longitudinal simulated datasets for interplay of brain, behavior, and cognition</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-3" target="_blank">Join on Crowdcast</a></div>
-                </td>
+                </td> -->
             </tr>
         </table>
     </div>
@@ -150,50 +163,60 @@ function showScheduleForDay(day) {
     <div class="schedule-content">
         <table class="osr-schedule">
             <tr>
-                <td>GMT-4</td>
-                <td>OPEN SCIENCE ROOM</td>
+                <td>UTC</td>
+                <td>DAY 3</td>
             </tr>
             <tr>
-                <td>8:00-9:00</td>
+                <td><i>time</i></td>
+                <td>
+                    <div><a href="" target="_blank"><i>session details coming soon</i></a></div>
+                </td>
+                <!-- uncomment to add session details -->
+                <!-- <td>8:00-9:00</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/emergent/" target="_blank">Emergent Session:</a> Enabling federated analysis on large datasets with COINSTAC Vaults</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-4" target="_blank">Join on Crowdcast</a></div>
-                </td>
+                </td> -->
             </tr>
             <tr>
-                <td>8:00-9:15</td>
+            <!-- uncomment to add session details -->
+                <!-- <td>8:00-9:15</td>
                 <td>
                     <div>Morning Symposia: Open Science - sustainability through success stories</div>
-                </td>
+                </td> -->
             </tr>
             <tr>
-                <td>10:30-11:30</td>
+            <!-- uncomment to add session details -->
+                <!-- <td>10:30-11:30</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/panel/" target="_blank">Panel:</a> Open Data Governance and Infrastructure</div>
                     <div><a href="https://www.crowdcast.io/e/panel-4-data-governance" target="_blank">Join on Crowdcast</a></div>
-                </td>
+                </td> -->
             </tr>
             <tr>
-                <td>11:45-12:45</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>11:45-12:45</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/tabletalk/" target="_blank">Table Topic Discussion:</a> Open Data Governance and Infrastructure - Sharable Resources in Neuroimaging</div>
                     <div><a href="https://www.crowdcast.io/e/osr-table-data-governance" target="_blank">Join on Crowdcast</a></div>
-                </td>
+                </td> -->
             </tr>
             <tr>
-                <td>14:00-14:30</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>14:00-14:30</td>
                 <td>
                     <div>Off Schedule Session: Mathworks</div>
                     <div><a href="https://www.crowdcast.io/c/osr-mathworks" target="_blank">Join on Crowdcast</a></div>
-                </td>
+                </td> -->
             </tr>
             
             <tr>
-                <td>14:45-16:15</td>
+                <!-- uncomment to add session details -->
+                <!-- <td>14:45-16:15</td>
                 <td>
                     <div><a href="https://ohbm.github.io/osr2023/emergent/" target="_blank">Emergent Session:</a> Physiopy open meeting: physiology community practices + Challenges for small collaborative software projects</div>
                     <div><a href="https://www.crowdcast.io/e/osr-2023-emergent-5" target="_blank">Join on Crowdcast</a></div>
-                </td>
+                </td> -->
             </tr>
         </table>
     </div>
