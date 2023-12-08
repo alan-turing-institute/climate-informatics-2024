@@ -13,17 +13,14 @@ description: Organising for Climate Informatics 2024
 ```
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 # Meeting yyyy-mm-dd
-## Apologies
 ## Attendees
+## Apologies
 ## Notes
-### Updates on issues
+### Updates on issues/actions
 ### AOB
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 ```
 ==Actions are highlighted yellow==
-
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-
 
 
 
@@ -64,18 +61,24 @@ description: Organising for Climate Informatics 2024
 
 Going through issues on the GitHub board:
 - SH: Let's make sure online experience is a top priority, as much as in person. Can a sub-group of early career reseachers come together in a meeting to see what kind of formats/setups work best. AM: Online social opportunities for engagement/networking (Orlando, Andrew, Lelle, Meghna-- who else?) --check [Gathertown](https://www.gather.town/ for good online experience) -- 
+    - ==UPDATE: [issue #13](https://github.com/alan-turing-institute/climate-informatics-2024/issues/13) to cover this==
 - [Resource for reproducibility review guidelines](https://reproducible-agile.github.io/) 
 - CMT setup for submissions (somehow to track whether applicants will need visa, so that they are prioritised) - (new issue)
 - AM for online participation champion (did I pick that up right?)
 - Tidy up [website](https://alan-turing-institute.github.io/climate-informatics-2024/)
 - LD: Send out 'Save the Date' email to mailing list and forward to colleagues to spread the word
+    - ==UPDATE: updated [issue #10]==(https://github.com/alan-turing-institute/climate-informatics-2024/issues/10) to catch all comms points. Assigned Cass, Douglas and Lelle==
 - Submissions to January 26, with extention for a week. Mention selection criteria, and that submission will start in the new year
 - Alejnadro: online training before conference? Cass: TTW/TPS could support delivery
+    - ==UPDATE: added to [issue #15]==(https://github.com/alan-turing-institute/climate-informatics-2024/issues/15)
 - It's time to start identifying key speakers for the programme. LD: Send email to build up the list of people in-between us. Spreadsheet to reflect EDI, Douglas will send me. Topics for potential panels, as well.
+    - ==UPDATE: added to [issue #8](https://github.com/alan-turing-institute/climate-informatics-2024/issues/8). Assigned all==
 - Sponsorships/Travel bursaries tbd
  ==LD: Agreement with some hotel? Blockbook something==
 - Template for invitation letter for visa
+    - ==Update: Douglas created [issue #17]==(https://github.com/alan-turing-institute/climate-informatics-2024/issues/17)
 - Suggestion: CodeCarbon for papers (new issue)
+    - ==Update: Andrew created [issue #16]==(https://github.com/alan-turing-institute/climate-informatics-2024/issues/17)
 
 - #3 Committeess
     - Treasurer ? Turing -- Maybe Katy from Events? (on the basis she can track eventforce registrations)
@@ -100,6 +103,7 @@ Going through issues on the GitHub board:
 
 - #1 Update website
     - logo and colours agreed?
+        - ==UPDATE: take that as a yes :)==
 
 
 
