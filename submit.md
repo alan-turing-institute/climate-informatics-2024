@@ -7,73 +7,48 @@ title: Submit
 <br>
 # Submissions opening soon !!!
 
-## Session formats
 
-Submissions will be open for talks and posters. Key note presenters will be nomitated by the [Organising committee](../team#local-organising-committee) and approved by the [Steering Group](../team#steering-group).
+## Submission guidelines
 
-### Talks
-<mark>Coming soon: details on how long the talk slots will be</mark>
+The subject matter should be selected with Climate Informatics in mind: either presenting algorithms that could have potential applications in geosciences or datasets and physical problems that pose a specific problem in geosciences are both welcome, but ideally should combine machine/deep learning and advanced statistics with a climate-related issue.
 
-### Posters
-<mark>Coming soon: details on poster formats</mark>
+This year’s conference offers two tracks for submissions:
 
-## Submission review procedure
-<mark>Coming soon: details on how submissions will be reviewed and linked criteria</mark>
+**a) Full paper submission**
 
-<!-- {::options parse_block_html="false" /}
-{::options parse_block_html="true" /}
+The accepted full paper will be considered to be included in an open-access, peer-reviewed special collection on the journal [ Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) tied to the conference.
 
-This year, you can **self-nominate** as a speakers for one of our **panel discussions** and/or submit your own **emergent session**. 
+Similar to Environmental Data Science journal, full paper track submission accept the following four types of submission:
 
-<p align="justify">
-  Before starting your submission make sure you are familiar with the [OSR formats](/formats.md){:target="_blank"}.
-</p>
 
-<p align="justify">
-  We are also always **looking for volunteers** to help us with the organisation of the OSR activities. If you are interested to join is, please, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUNkFPS1UxWDRNNTNFQkhVTk00TVZWTEM0OS4u){:target="_blank"} <br><br>
-  You can find more info on volunteering opportunities [here](https://ohbm.github.io/osr2023/opportunities/){:target="_blank"} or by contacting us through e-mail: ohbmopenscience@gmail.com
-</p>
 
-## Panel Discussion Self-Nominations 
+* **Application papers**: Research progress, or tackling a real-world problem, in an environmental field, enabled by data science. For example, AI or data science could be used for understanding of climate applications, or improving forecasting tools.
+* **Methods papers**: Novel data science methodology inspired by an environmental problem or application. Typically the methodology should be demonstrated in one or more climate applications.
+* **Data papers** that describe the development and utility of re-usable environmental data sets to support the advancement of climate informatics research (e.g., benchmarking data sets to support objective evaluation of data sciences methods). The data must reside in publicly accessible repositories. For These papers promote data transparency and data re-use.
+* **Position papers**: examples include but are not limited to: a) providing an authoritative, personal view on the uptake or obstacles to AI and data science approaches for environmental problems, or b) exploring issues related to the use of environmental data, including ethical, legal and policy issues, as well as data standards, protocols and services.
 
-<p align="justify">
-**Panel Sessions** are moderated discussions amongst selected speakers and OSR attendees about various relevant topics, spanning across all aspects of open science practices.
-</p>
-<p align="justify">
-You can self-nominate as a speaker for the following **hybrid panel discussions**: <br> 
-**8:00 GMT-4 July 23, 2023** (Sunday): Topic 1: Telehealth as a tool for open data research and sharing <br>
-**14:15 GMT-4 July 23, 2023** (Sunday): Topic 2: Evolution of open publishing (To do or not to do?/Lessons learnt) <br>
-**8:00 GMT-4 July 24, 2023** (Monday): Topic 3: Standardization of code <br>
-**10:30 GMT-4 July 25, 2023** (Tuesday): Topic 4: Open Data Governance and Infrastructure <br>
-**10:30 GMT-4 July 26, 2023** (Wednesday): Topic 5: Large open data repositories: sustainability and global implications of reuse <br><br>
- 
-**You can self-nominate as a panelist until July 2 (12pm anywhere on Earth) through this [form](https://forms.office.com/r/sWBzuATwDp){:target="_blank"}.**<br> <br>
-After this date, the nominations will be reviewed by the OSR team based on the experience in the topic and a diversity of speakers, and we will notify the self-nominees in early July. <br> 
-</p>
-{::options parse_block_html="false" /}
+The paper should be **no longer than 8 pages, not including references**, using the templates provided by Environmental Data Science (for more information, see the [journal’s instructions](https://www.cambridge.org/core/journals/environmental-data-science/information/instructions-for-authors) for authors).
 
-## Emergent Session Submissions
 
-{::options parse_block_html="false" /}
-{::options parse_block_html="true" /}
-<p align="justify">
-  **Emergent sessions** are live discussions among a small group of panel members, mediated by a host and open to audience of the OSR. The discussions may cover more advanced topics related to open-science or EDI (Equality, Diversity and Inclusion) issues.
-</p>
-<p align="justify">
-During the OSR attendees can hold **hybrid emergent sessions**. <br> 
-This year we offer **5 slots**:<br>
-**10.30-11.30 (GMT -4) July 23** (Sunday) : OSR: Emergent Session #1 <br>
-**10.30-11.30 (GMT -4) July 24** (Monday) : OSR: Emergent Session #2 <br>
-**14.45-15.45 (GMT -4) July 24** (Monday) : OSR: Emergent Session #3 <br>
-**8.00-9.00 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #4 <br>
-**14.45-15.45 (GMT -4) July 25** (Tuesday): OSR: Emergent Session #5 <br>
-<br> 
-**You can request to hold such a session until June 25 (12pm anywhere on Earth) by creating an issue through our github repo [template](https://github.com/ohbm/osr2023/issues/1){:target="_blank"}.**<br> <br>
-After this date, the sessions will be reviewed based on their timeliness and interest to the open science audience by the OSR team and we will notify everyone of their assigned sessions in early July. <br> 
-</p>
-{::options parse_block_html="false" /}
 
-<!-- <figure class="video_container">
-  <iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUME0xMUowV0ZEWEpWQjM3TVRFVk5SOE1YSC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-</figure> -->
-<br>
+* [Download LaTeX template files](https://www.cambridge.org/core/services/aop-file-manager/file/5f84547e1a014c397d6273b7)
+* [Download a Word template](https://www.cambridge.org/core/services/aop-file-manager/file/608853cd9a02c82ae9dcbf0d)
+
+**b) Extended abstract submission**
+
+No specific template is required for this submission but extended abstract should contain sufficient information for the reviewer to determine the quality of the work. Therefore, submission in this track should include at least these three sections: 
+
+
+
+* **Introduction**: describing the motivation and background for the research.
+* **Methods**: describing the methods used or developed and data used in this research.
+* **Results**: providing a summary of results with sufficient detail for the reviewers to evaluate the merit of the submission.
+
+The extended abstract should be **no longer than 3 pages, not including references**, including figures (not required). You can present preliminary results.
+
+**Open Science Policy**: Climate Informatics community fully embrace the open science momentum and urge all interested authors to follow open science best practices developed by the community (e.g., The Turing Way [Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research)). Additionally, full paper authors should strive to follow the [Cambridge University Press Research Transparency Policy](https://www.cambridge.org/core/journals/environmental-data-science/information/journal-policies/research-transparency) regarding the sharing of data and code.
+
+All submissions should be made through the CMT portal by the deadline of **_2nd February 2024 (Anywhere on Earth [AoE])_**. (**Note for international participants**: Please indicate in the submission system if you will need apply visa to attend the conference in person so the organizers can provide adequate support as soon as possible.)
+
+The papers will be peer-reviewed and decisions about acceptance will be made by xxxxxxxxxx.
+
