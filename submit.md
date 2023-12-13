@@ -23,7 +23,7 @@ We invite both new and previous participants in this conference to review the gu
 
 ## Presentation formats
 
-We welcome submission of your research for presentation at CI2024, <mark>and inclusion in the published conference proceedings</mark>. 
+We welcome submission of your research for presentation at CI2024! 
 Submissions will be considered for presentation as posters and short talks. Key note presenters will be nominated by the [Organising committee](../team#local-organising-committee) and approved by the [Steering Group](../team#steering-group).
 
 The material submitted should relate directly to Climate Informatics as a topic. 
@@ -40,14 +40,14 @@ For example, AI or data science could be used for understanding of climate appli
 Typically the methodology should be demonstrated in one or more climate applications.
 - **Data papers**: Describe the development and utility of re-usable environmental data sets to support the advancement of climate informatics research (e.g., benchmarking data sets to support objective evaluation of data sciences methods). 
 The data must reside in publicly accessible repositories. These papers promote data transparency and data reuse.
-- **Position papers**: Examples include but are not limited to: a) providing an authoritative, personal view on the uptake or obstacles to AI and data science approaches for environmental problems, or b) exploring issues related to the use of environmental data, including ethical, legal and policy issues, as well as data standards, protocols and services.
+- **Position papers**: (For Full Papers only) Examples include but are not limited to: a) providing an authoritative, personal view on the uptake or obstacles to AI and data science approaches for environmental problems, or b) exploring issues related to the use of environmental data, including ethical, legal and policy issues, as well as data standards, protocols and services.
 
-<mark>You will be asked to identify the type of your submission in the submission portal.</mark>
+You will be asked to identify the type of your submission in the submission portal.
 
 ## Submission tracks
 
 We welcome submission of **full papers** and **extended abstracts**.
-<mark>Both tracks will be considered for posters and talks</mark>.
+Both tracks will be considered for posters and talks.
 
 #### Full papers
 
@@ -59,7 +59,7 @@ Please prepare your submission using the templates below provided by Environment
 
 #### Extended abstracts
 
-Extended abstracts should be **no longer than 1 page, not including references or figures (not required)**. You can present preliminary results.
+Extended abstracts should be **no longer than 2 page, not including references or figures (not required)**. You can present preliminary results.
 
 Submission should contain sufficient information for the reviewer to determine the quality of the work, in the following three to four sections: 
 - **Introduction**: describing the motivation and background for the research.
@@ -93,5 +93,5 @@ Decisions about acceptance will be communicated on or shortly after 19th Februar
 
 ### Publication of conference proceedings
 
-The accepted full paper <mark> and extended abstract submissions</mark>will be considered for inclusion in an open-access, peer-reviewed special collection in the journal [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science). 
-We are grateful for the support of Cambridge University Press in delivering the conference proceedings of Climate Informatics since <mark>date?</mark>.
+The accepted full papers will be considered for inclusion in an open-access, peer-reviewed special collection in the journal [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science). 
+We are grateful for the support of Cambridge University Press in delivering the conference proceedings of Climate Informatics.
