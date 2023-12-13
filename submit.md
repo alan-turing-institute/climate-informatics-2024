@@ -59,7 +59,7 @@ Please prepare your submission using the templates below provided by Environment
 
 #### Extended abstracts
 
-Extended abstracts should be **no longer than 2 page, not including references or figures (not required)**. You can present preliminary results.
+Extended abstracts should be **no longer than 2 pages, not including references or figures (not required)**. You can present preliminary results.
 
 Submission should contain sufficient information for the reviewer to determine the quality of the work, in the following three to four sections: 
 - **Introduction**: describing the motivation and background for the research.
