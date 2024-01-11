@@ -14,7 +14,7 @@ A number of changes have been introduced to requirements for CI2024 from previou
 We invite both new and previous participants in this conference to review the guidelines and [contact us](./contact.md) if you have any questions. 
 
 **Contents: Author guidelines**
-- [Conference presentation formats: Posters, talks and keynotes](#presentation-formats)
+- [Conference presentation formats: Panels and research](#presentation-formats)
 - [Submission types: Applications, methods, data or position papers](#submission-types)
 - [Submission tracks: Full paper or extended abstract](#submission-tracks)
 - [Open Science Policy: Suggested practices](#open-science-policy)
