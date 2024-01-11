@@ -23,14 +23,28 @@ We invite both new and previous participants in this conference to review the gu
 
 ## Presentation formats
 
-We welcome submission of your research for presentation at CI2024! 
-Submissions will be considered for presentation as posters and short talks. Key note presenters will be nominated by the [Organising committee](../team#local-organising-committee) and approved by the [Steering Group](../team#steering-group).
+We welcome submission of your research for presentation at CI2024, and proposals for panel discussions! 
+
+### Panel disucssion proposals
+Panel discussions are best suited for emerging topics that are broadly relevant to the community and would benefit from inviting a diverse group (3-5) of practitioners to share their perspectives to provoke community discussion. 
+Past panel topics include uncertainty and trust, enhancing the diversity of the community, and reproducibility. 
+
+You will be asked to provide an abstract, nominate panelists (3-5) and a moderator, and identify a format (in-person, remote or hybrid).
+
+**Submit your panel discussion proposal via [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by **_2nd February 2024 (Anywhere on Earth [AoE])_**. 
+
+
+### Research submissions
+Research submissions will be considered for presentation as posters and short talks. 
+Keynote presenters will be nominated by the [Organising committee](../team#local-organising-committee) and approved by the [Steering Group](../team#steering-group).
 
 The material submitted should relate directly to Climate Informatics as a topic. 
 This can include algorithms with potential application in geosciences, or datasets and physical problems which pose a specific problem in geosciences. 
 We particularly welcome submissions applying  machine/deep learning and advanced statistics to a climate-related issue.
 
-## Submission types
+**Submit your research via [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by **_2nd February 2024 (Anywhere on Earth [AoE])_**. 
+
+#### Research submission types
 
 Aligned with the [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) journal, where [conference proceedings will be published](#publication-of-conference-proceedings), we invite submissions which fit into one of the four types:
 
@@ -40,16 +54,16 @@ For example, AI or data science could be used for understanding of climate appli
 Typically the methodology should be demonstrated in one or more climate applications.
 - **Data papers**: Describe the development and utility of re-usable environmental data sets to support the advancement of climate informatics research (e.g., benchmarking data sets to support objective evaluation of data sciences methods). 
 The data must reside in publicly accessible repositories. These papers promote data transparency and data reuse.
-- **Position papers**: (For Full Papers only) Examples include but are not limited to: a) providing an authoritative, personal view on the uptake or obstacles to AI and data science approaches for environmental problems, or b) exploring issues related to the use of environmental data, including ethical, legal and policy issues, as well as data standards, protocols and services.
+- **Position papers**: (For [Full papers](#full-papers) only) Examples include but are not limited to: a) providing an authoritative, personal view on the uptake or obstacles to AI and data science approaches for environmental problems, or b) exploring issues related to the use of environmental data, including ethical, legal and policy issues, as well as data standards, protocols and services.
 
 You will be asked to identify the type of your submission in the submission portal.
 
-## Submission tracks
+#### Research submission tracks
 
 We welcome submission of **full papers** and **extended abstracts**.
 Both tracks will be considered for posters and talks.
 
-#### Full papers
+##### Full papers
 
 Full papers should be **no longer than 8 pages, not including references**. 
 Please prepare your submission using the templates below provided by Environmental Data Science (for more information, see the [journal’s instructions for authors](https://www.cambridge.org/core/journals/environmental-data-science/information/instructions-for-authors)).
@@ -81,9 +95,9 @@ Full paper authors should strive to follow the [Cambridge University Press Resea
 
 ### Submission portal
 
-Climate Informatics uses [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/About) to manage submissions. All submissions should be made by **_2nd February 2024 (Anywhere on Earth [AoE])_**. 
+Climate Informatics uses [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/About) to manage submissions. 
 
-**Submit your research here: [Microsoft CMT portal for CI2024](https://cmt3.research.microsoft.com/CI2024)**
+**Submit your research here: [Microsoft CMT portal for CI2024](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by **_2nd February 2024 (Anywhere on Earth [AoE])_**.
 
 **Note for non-UK participants**: We understand that making vias arrangements can be a lengthy process. 
 We encourage you to submit early and indicate if you will need to apply for a visa to attend the conference. 
