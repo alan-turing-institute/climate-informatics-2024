@@ -11,7 +11,7 @@ If you would like to support and engage with the delivery of this meeting, we'd 
 - Chair: [Scott Hosking](https://www.turing.ac.uk/people/researchers/scott-hosking)
 - [Alden Connor](https://www.turing.ac.uk/people/business-team/alden-conner)
 - Secretary: [Léllé Demertzi](https://www.turing.ac.uk/people/business-team/lelle-demertzi)
-- Treasurer: <mark>Coming soon: name and profile link</mark> 
+- Treasurer: [Katy Thompson](https://www.turing.ac.uk/people/business-team/katy-thompson)
 - EDI Champion: [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag)
 - ECR Champions: <mark>Coming soon: name and profile link</mark> 
 - Reproducibility Champion: <mark>Coming soon: name and profile link</mark> 
