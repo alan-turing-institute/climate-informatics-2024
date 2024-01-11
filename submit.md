@@ -5,7 +5,23 @@ title: Submit
 
 <div id="submission"></div>
 <br>
-# Submissions opening soon !!!
+# Submissions now open!
+
+**_Submit your research using [Microsoft CMT](https://cmt3.research.microsoft.com/CI2024) by 2nd February 2024 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))_**. 
+
+Full details for preparing your submission are provided in the sections below. 
+A number of changes have been introduced to requirements for CI2024 from previous years. 
+We invite both new and previous participants in this conference to review the guidelines and [contact us](./contact.md) if you have any questions. 
+
+**Contents: Author guidelines**
+- [Conference presentation formats: Posters, talks and keynotes](#presentation-formats)
+- [Submission types: Applications, methods, data or position papers](#submission-types)
+- [Submission tracks: Full paper or extended abstract](#submission-tracks)
+- [Open Science Policy: Suggested practices](#open-science-policy)
+- [Submission portal: Microsoft CMT](#submission-portal)
+- [Publication of conference proceedings](#publication-of-conference-proceedings)
+
+## Presentation formats
 
 We welcome submission of your research for presentation at CI2024! 
 Submissions will be considered for presentation as posters and short talks. Key note presenters will be nominated by the [Organising committee](../team#local-organising-committee) and approved by the [Steering Group](../team#steering-group).
@@ -18,7 +34,13 @@ We particularly welcome submissions applying  machine/deep learning and advanced
 
 Aligned with the [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) journal, where [conference proceedings will be published](#publication-of-conference-proceedings), we invite submissions which fit into one of the four types:
 
-**a) Full paper submission**
+- **Application papers**: Research progress, or tackling a real-world problem, in an environmental field, enabled by data science. 
+For example, AI or data science could be used for understanding of climate applications, or improving forecasting tools.
+- **Methods papers**: Novel data science methodology inspired by an environmental problem or application. 
+Typically the methodology should be demonstrated in one or more climate applications.
+- **Data papers**: Describe the development and utility of re-usable environmental data sets to support the advancement of climate informatics research (e.g., benchmarking data sets to support objective evaluation of data sciences methods). 
+The data must reside in publicly accessible repositories. These papers promote data transparency and data reuse.
+- **Position papers**: (For Full Papers only) Examples include but are not limited to: a) providing an authoritative, personal view on the uptake or obstacles to AI and data science approaches for environmental problems, or b) exploring issues related to the use of environmental data, including ethical, legal and policy issues, as well as data standards, protocols and services.
 
 You will be asked to identify the type of your submission in the submission portal.
 
@@ -39,13 +61,21 @@ Please prepare your submission using the templates below provided by Environment
 
 Extended abstracts should be **no longer than 2 pages, not including references or figures (not required)**. You can present preliminary results.
 
+Submission should contain sufficient information for the reviewer to determine the quality of the work, in the following three to four sections: 
+- **Introduction**: describing the motivation and background for the research.
+- **Methods**: describing the methods used or developed and data used in this research.
+- **Results**: providing a summary of results with sufficient detail for the reviewers to evaluate the merit of the submission.
+- **Discussion (not required)** providing a summary of the implications and impact of this research, with sufficient detail for the reviewers to evaluate the merit of the submission. 
 
 No specific template is required for this submission. 
 You are welcome to submit in a text format of your choosing. 
 
 ### Open Science Policy
 
-No specific template is required for this submission but extended abstract should contain sufficient information for the reviewer to determine the quality of the work. Therefore, submission in this track should include at least these three sections: 
+Climate Informatics supports open science.
+We encourage authors to follow best practice in open science when conducting and reporting on their research. 
+For the purposes of submission, we particularly encourage authors to submit their research with an accompanying [project repository](https://the-turing-way.netlify.app/project-design/project-repo.html?highlight=license) for example on GitHub, including an appropriate license and [digital object identifier](https://the-turing-way.netlify.app/communication/citable/citable-steps.html?highlight=doi). 
+These two components make the repository citable and appropriate to be included in a reference list as a [citable object](https://the-turing-way.netlify.app/communication/citable/citable-cite).
 
 Full paper authors should strive to follow the [Cambridge University Press Research Transparency Policy](https://www.cambridge.org/core/journals/environmental-data-science/information/journal-policies/research-transparency) regarding the sharing of data and code.
 
@@ -65,6 +95,3 @@ Decisions about acceptance will be communicated on or shortly after 19th Februar
 
 The accepted full papers will be considered for inclusion in an open-access, peer-reviewed special collection in the journal [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science). 
 We are grateful for the support of Cambridge University Press in delivering the conference proceedings of Climate Informatics.
-
-The accepted full paper <mark> and extended abstract submissions</mark>will be considered for inclusion in an open-access, peer-reviewed special collection in the journal [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science). 
-We are grateful for the support of Cambridge University Press in delivering the conference proceeedings of Climate Informnatice since <mark>date?</mark>.
