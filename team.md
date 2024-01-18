@@ -9,7 +9,7 @@ If you would like to support and engage with the delivery of this meeting, we'd 
 
 ## Local organising committee
 - Chair: [Scott Hosking](https://www.turing.ac.uk/people/researchers/scott-hosking)
-- [Alden Connor](https://www.turing.ac.uk/people/business-team/alden-conner)
+- [Alden Conner](https://www.turing.ac.uk/people/business-team/alden-conner)
 - Secretary: [Léllé Demertzi](https://www.turing.ac.uk/people/business-team/lelle-demertzi)
 - Treasurer: [Katy Thompson](https://www.turing.ac.uk/people/business-team/katy-thompson)
 - EDI Champion: [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag)
