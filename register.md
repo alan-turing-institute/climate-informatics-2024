@@ -4,7 +4,7 @@ title: Register for CI2024!
 ---
 
 
-**Registration will open soon!!**
+**Registration opens 26 February 2024**
 
 <mark>Coming soon: How to register for remote and in-person participation</mark>
 
