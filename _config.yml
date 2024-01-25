@@ -28,6 +28,7 @@ navbar-links:
   Program:
     #- Self-Nominations: "submit"
     - Schedule: "schedule"
+    - Speakers: "speakers"
     - Venue: "venue"
     # - Training: "training"
     # - Hackathon: "hackathon"
@@ -276,12 +277,12 @@ paginate_path: "/news/page:num/"
 plugins:
   - pagemaster
 
-# collections:
-#   speakers:
-#     output: true
-#     source: speakers.csv
-#     id_key: Name
-#     layout: speaker_page
+collections:
+  speakers:
+    output: true
+    source: speakers.csv
+    id_key: Name
+    layout: speaker_page
 
 #   volunteers:
 #     output: true
