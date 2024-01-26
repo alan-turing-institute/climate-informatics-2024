@@ -7,7 +7,7 @@ title: Submit
 <br>
 # Submissions now open!
 
-**_Submit your research using [Microsoft CMT](https://cmt3.research.microsoft.com/CI2024) by 2 February 2024 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))_**. 
+**_Submit your research using [Microsoft CMT](https://cmt3.research.microsoft.com/CI2024) by 9 February 2024 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))_**. 
 
 **Submission outcomes to be notified 26 February 2024.**
 <br>**Registration opens 26 February 2024.**
