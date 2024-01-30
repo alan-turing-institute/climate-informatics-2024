@@ -34,7 +34,7 @@ Past panel topics include uncertainty and trust, enhancing the diversity of the 
 
 You will be asked to provide an abstract, nominate panelists (3-5) and a moderator, and identify a format (in-person, remote or hybrid).
 
-**Submit your panel discussion proposal via [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by **_2nd February 2024 (Anywhere on Earth [AoE])_**. 
+**Submit your panel discussion proposal via [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by **_9 February 2024 (Anywhere on Earth [AoE])_**. 
 
 
 ### Research submissions
@@ -45,7 +45,7 @@ The material submitted should relate directly to Climate Informatics as a topic.
 This can include algorithms with potential application in geosciences, or datasets and physical problems which pose a specific problem in geosciences. 
 We particularly welcome submissions applying  machine/deep learning and advanced statistics to a climate-related issue.
 
-**Submit your research via [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by **_2nd February 2024 (Anywhere on Earth [AoE])_**. 
+**Submit your research via [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by **_9 February 2024 (Anywhere on Earth [AoE])_**. 
 
 #### Research submission types
 
@@ -100,13 +100,13 @@ Full paper authors should strive to follow the [Cambridge University Press Resea
 
 Climate Informatics uses [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/About) to manage submissions. 
 
-**Submit your research here: [Microsoft CMT portal for CI2024](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by **_2nd February 2024 (Anywhere on Earth [AoE])_**.
+**Submit your research here: [Microsoft CMT portal for CI2024](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by **_9 February 2024 (Anywhere on Earth [AoE])_**.
 
 **Note for non-UK participants**: We understand that making vias arrangements can be a lengthy process. 
 We encourage you to submit early and indicate if you will need to apply for a visa to attend the conference. 
 
 The papers will be reviewed by the [combined organising committees](./team.md). 
-Decisions about acceptance will be communicated on or shortly after 19th February 2024.
+Decisions about acceptance will be communicated on or shortly after _**26 February 2024**_.
 
 ### Publication of conference proceedings
 
