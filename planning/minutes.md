@@ -3,13 +3,14 @@ tags: meeting
 description: Organising for Climate Informatics 2024
 ---
 
-:::info
-**Contents**
+# Climate Informatics 
+
+:::spoiler **Expand for Contents**
 [TOC]
 :::
 
 ---
-
+:::spoiler Expand for formatting template
 ```
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 # Meeting yyyy-mm-dd
@@ -20,9 +21,592 @@ description: Organising for Climate Informatics 2024
 ### AOB
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 ```
+:::
+
+---
+
+```
+
+```
 ==Actions are highlighted yellow==
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+# Meeting 2024-02-02
+
+## Attendees
+* Katy Thompson, Events @ Turing
+* Lelle Demertzi, Programme Coordinator @Turing 
+* Andrew McDonald, PhD  student @ Cam/BAS, Social Media / Publicity / Promo
+* Cass
+* Guillaume Couairon
+* Scott Hosking
+* Douglas
+* Robert Rouse
+* Alden
+* Orlando
+* Alejandro Coca Castro
+* Christian
+* Andrew Hyde
+* Meghna Asthana
+
+## Apologies
+
+## Notes
+
+### Partnernships meeting
+- How do we use 2024 to springboard 2025?
+    - No way to make a surplus this year and hold it for 2025
+- Funding availablile in UK gov etc. who sponsor international meetings
+    - Alaine (Turing, international) looking into those
+- Going to be difficult for Turing to bring in sponsors for 2024
+    - one off and low capacity internally
+    - Can't have people give money to Turing - need to pay directly to venue etc.
+    - ==Lelle/Katy: Ask BMA house to itemize costs==
+    - If sponsors are paying things directly, might get round Turing's supplier restrictions?
+        - Sponsors may also have their own restrictions...
+- ==Adlen/Scott: draft an email for sponsors with a menu of items to choose from==
+
+From Douglas: 
+**RE: budget** - I don't think I can see the budget file in the Turing shared drive in the Microsoft system. Claire mentioned that there is 7K USD at CU Boulder that can be used to pay for venues or some other expanses that may offset the cost.
+**RE: sponsorship** - if there is a specific policy about what type of sponsorship that Turing can take please let me know. I do have a few contacts at ESA, AWS, and NVIDIA that sponsored past CI events.
 
 
+### Submission deadline
+Extended to Friday 9th February. Currently 9 abstracts submitted and no full paper.
+
+### Tickets
+
+[budget detail here](https://docs.google.com/document/d/1JPwdKbEEfMrXEWh9CfK-raiEsXO9yuvbuW1zguyPjfU/edit?usp=sharing) contains link to spreadsheet which is internal to Turing only - please let Katy know if you would like to review
+
+- From marketing meeting: we need to adopt access requirements from the Turing (incl. speaker expenses, day care as part of access fund).
+    - budgetted into the costs below
+
+Registration opens on 26th February
+* 3 days in-person £225.00 
+* 3 days in-person (student) £150.00 
+* 1 day in-person	 £75.00 
+* 1 day in-person (student)	 £55.00 
+* Online (unlimited) £25.00 
+* Dinner (minus staff, keynotes + access) £75.00 
+
+- ==Need to know VIPs up front i.e. tickets we are giving away==
+
+
+### Online platform
+* Gather Town blocked by Turing - half of the delivery team wouldn't be able to access it and we wouldn't be able to pay for it via Turing
+* Gather.town $7/user/month
+* [MyHyve](https://www.hyhyve.com/) - Event-based quote for Business plan requested -no response yet. There is also a pay-as-you-go option for 0.03/participant/video minute (+800 video minutes for free) but with less customisable features
+    * Orlando has set up one of these.
+    * More of an entrance barrier than gathertown
+* [Kumospace](https://www.kumospace.com/)  20$/user/month, and US-based (GDPR issues)
+* [Topia.io](http://topia.io/) - monthly subscription option only, Pro plan ($100/month for 20 people and additional users $5/user/month)
+    * Douglas offered to do a demo
+* [Spatial.Chat](https://www.spatial.chat/) $7/user/month in 10-user increments,add-ons: $150 Analytical report, $150/h In-event-support, unlimited stage recording - $500
+* *Open source alternative [workadventure]*(https://github.com/workadventure/workadventure)
+* Would like for online to be n=200-300
+* We could set a cap to keep track of cost
+* Priority reminder: how robust the tool is and how it will add value to the user experience. 
+* CU Bolder Money could pay
+* Form Douglas: Whova has been bothering me all year asking if CI wants to use it for hybrid events - have people used it for other conferences? Andrew: Nifty appp!
+
+## Reproducibility
+- After the conference, offer full papers an opt-in to formal computational artefact review
+- Would need to build a pool of ~20 reviewers, 
+    - Advertise in the conference (potentially a panel session)
+    - hold training for reviewers after the conference
+        - ECR development opportunity
+        - Authorship via CRediT
+        - blog-type piece via CUP
+- Legacy
+    - incorporate into future planning!
+
+## Submission reviewing
+- Submission deadline next week!
+- Currently we have 9 abstracts submitted so far but no full paper submission yet.
+- Pannels:
+    - [Agenda](https://docs.google.com/document/d/18Vf6gkvkfuPlLuDWFHi1CHnaCpyTGYRd/edit?usp=sharing&ouid=114601902116252169055&rtpof=true&sd=true)
+    - Strong theme on weather forcasting - good to get other directions too
+    - Reproducibility: Artifact Evaluation
+        - ==Cass/Alejandro: Submit through CMT==
+    - Humanities
+        - ==Robert: Make sure Ramit has submitted==
+    
+    - ==Add Guillaume to CMT guillaume.couairon@gmail.com==
+    - CMT: "Panel discussion is best suited for emerging topics that are broadly relevant to the community and can benefit from inviting a diverse group (3-5) of practitioners to share their perspectives and provoke broad community discussion. Past panel topics include uncertainty and trust, enhancing the diversity of the community, and reproducibility."
+        - Minimally required abstract and speakers
+    - Andrew: other panel ideas
+        - education x climate informatics (discussion targeted towards bringing climate/weather into CS curricula and vice versa given the high number of faculty and teaching folks attending)
+        - edi (think we discussed this in a previous meeting and had a panel on this last year)
+        - towards sustainable climate informatics (discussion on the carbon footprint of ML/AI and best practices for more efficient computation in the age of LLMs and LVMs) (especially relevant with Scott’s recent paper, https://www.nature.com/articles/s41561-023-01369-y)
+
+## Comms
+- Andrew to post a daily countdown
+- Cass to do a "1 week to go" on Turing mailling lists
+
+## Website
+- Lelle chasing speakers for bios etc.
+- 
+
+## Session Chairs
+- Not yet discussed!
+- ==Cass: make an issue on this==
+
+## Pub Quiz!
+- ==MC==
+- Katy and Alden looking at venues
+- 1st night, with food if we can
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+# Meeting 2024-01-30
+## Attendees
+- Lelle
+- Katy
+- Alden
+- Cass
+- Sian Fortt
+
+## Notes - Marketting chat
+- Aims: Networking, building up the community. 
+    - A good core group
+    - Grow the E&S Community
+    - Strong Turing presence to solidify the place of Turing 
+- 22-24th April BMA House
+- Turing's role as a conviener, it's not a GC lead event
+- Expect the logo to be right at the top
+- Regisration mamaged through events force
+- [Turing events page](https://www.turing.ac.uk/events/climate-informatics-2024)
+- n=120 in person, 40-60 online 2023 (hope this to grow)
+- How are we trying to grow the audience. 
+    - If we could hand pick the people to be there, who would they be?
+    - Academics, ECRs
+    - Keynote from Deepmind
+    - Schmidt Futures
+    - Third Sector, ? Sian has been working on some calls to these recently
+- Ticket pricing - Sian was pleased that these are reasonable ticket prices for this audience
+- ==Access fund to childcare costs?==
+    - £100 childcare voucher for AIUK
+    - Suggestion to ask BMA House if they have facilities
+    - Think about upfront costs for participants, if they have to wait for everything to be reimbursed
+
+- Marketing routes
+    - Turing events and engagement newsletter, when registration live
+    - Network awards newsletter to university partners
+    - Social media
+    - Use AIUK to advertise? 
+        - Especially live stream tickets
+            - E&S Hub, our demos etc.
+    - Send people to the Turing events page for google analytics
+    - Katy to meet with Sian 2 weeks after tickts open
+
+- ==Put Turing name as close as possible to "CI2024"==
+    - ==Turing merch!==git
+    - Limited suply of banners, directional signs etc.
+- ==Good networking opportunity for S&I Director - video?== 
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+# Meeting 2024-01-22
+## Attendees
+- Katy
+- Lelle
+- Cass
+
+## Apologies
+- none
+
+## Notes - Budget chat
+- Networking pub quiz at [Tile Yard](https://tileyard.co.uk/the-gallery/)
+    - Turing approved venue
+    - ==Katy to get a quote and write a short proposal to share with organisers on slack
+- Short talks
+    - Turing EDI policy that we hae to cover speaker expenses?
+        - ==Katy to look into==
+        - Maybe a cap that we can 
+    - Speakers don't pay for register for Turing events
+        - Currently n=24 speaker slots
+- Gather Town
+    - Macbooks can use it
+    - Turing Business laptops cannot access 
+    - Would have to set up GatherTown (or alternative) as a supplier
+        - ==Katy and Lelle looking at alternatives==
+            - Look out for regional blocks to access
+            - Turing have said they cannot unblock access on Business Team machines
+
+- Access funds
+    - Typically offered at Turing events. 
+    - Often only covers ticket price
+    - Criteria
+
+- Funds remaining in the CI bank
+    - Hold this back for 2025
+
+- 1 day ticket
+    - Keep this option for people to attend without committing to all 3 days
+
+- Dinner
+    - Room capacity n=100
+    - estimate n=18 organisers attending
+    - 
+
+### Updates on issues/actions
+
+### AOB
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+# Meeting 2024-01-19
+
+## Attendees
+* Katy Thompson, Events @ Turing
+* Lelle Demertzi, Programme Coordinator @Turing 
+* Andrew McDonald, PhD  student @ Cam/BAS, Social Media / Publicity / Promo
+* Robert Edwin Rouse - PDRA Computer Science Cambridge
+* Cass
+* Christian Fernandez Perotti, ICCS
+* Guillaume Couairon
+* Scott Hosking
+
+## Apologies
+
+## Notes
+### Submission deadline
+* 2 weeks left for submission deadline !! Push on twitter and linkedin, Andrew will do retweets-reminders
+    * Currently 1 submission / Can we extend for one more week?
+* Douglas sending out invitations for review next week
+    * Start reviewing immediately after submission closes
+    * We have a meeting on close day - let's check where we are
+    * In the past we have accepted "Monday after deadline" for extenuating circumstances
+    * Two week reminder sent today to Google Group
+* [Mailing lists](https://github.com/alan-turing-institute/climate-informatics-2024/issues/10): 
+    * ==Please add mailing lists you can access in the above issue, and we'll tick off as we go :)==
+
+
+### Speakers
+* 5 invited
+* Remaining reviewed from submissions
+* Haven't thought about panels, will invite some
+* ==Cass: Add update for keynotes on website== 
+* ==Katy will follow up with Speaker Release Form==
+#### Pannels
+* Alden: touched base with Center Data Science for Environment, Berkley for potentially holding a panel.
+* Pannels don't have to go through programme committee 
+* (3 panels last year), minimum 1 panel this year, ideally 2
+* Alden: Let's work with E&S GC for a sitdown/panel/presentation, something to showcase the GC
+* Pannels can be more like "round table" or other format (fireside?)
+    * includes online only speakers
+* Currently 3 pannel spots in the agenda. 
+* Last year:
+    * Last year’s topic:
+        * 1. EDI
+        * 2. Ethics
+        * 3. Reproducibility
+* Suggestions:
+    * Humanities
+    * Teaching/Outreach
+    * EDI
+    * Interoperabiltiy, standards
+
+#### Reproducibility 
+
+### Online
+* [Notes](https://hackmd.io/egXgvD5rQoKFl1_t7bGJ5w)
+* removing need for video submissions of posters in advance
+* Submit an image of poster, not video posters
+* Poster session advertised as virtual (Gather Town) and in-person
+* [Test gather town site set up!:rocket:](https://app.gather.town/app/CWv5cMFdbXnWa7jv/CI%202024%20Teeest)
+* Q: time of day for presentations
+- Gathertown pricing and availability for one-time reservation
+    - $3/user/day
+    - whole week == monthly $7/user
+    - ==How many people expected online??== (last year 30/40 online)
+    - Blocked on Turing wifi
+    - ==LD and SH to escalate to Software Review Group==
+- Online Posters
+    - Gathertown
+    - Two platforms for virtual poster
+    1. Qiqochat (ESIP has been using it for live demo for the past four years)
+    2. Vimeo (AGU is using it next week for virtual poster)
+- Note that GatherTown as a technology won't be acceptable to everyone
+    - Could generate a zoom link for each poster and list them in a table for easy access
+- Need to find ways to encourage online participation, to ma
+    - Send onboarding instructions for new users something like [this](https://icaps22.icaps-conference.org/gather)
+
+
+### Key dates to add to website
+* Submission feedback
+* Registration open (same day as feedback provided)
+* ==Cass add these to website== - done
+
+### Updates on issues/actions
+- [Budget Review (sharepoint)](https://thealanturininstitute.sharepoint.com/:x:/s/ee/EWWc-xQKDABArqI5IAg90gUBDazndDN8e434jVk6n_8VHw?e=es7vQe)
+    - especially ticket pricing
+    - Last year ~£75 student, £150 non-student, Virtual £50 (dinner and reception included)
+        - Pricing was determined by cost
+    - Formal dinner pushed up the price
+    - No one-day tickets offered last year
+    - Considder raising the in-person cost (£300 would be and reducing the virtual, both alongside access fund
+        - Need to do some sums on numbers once we've finalised speaker numbers (see agenda draft below)
+            - Aim to break even on ticket sales - recouping what Turing has already put up front
+            - Cover most in-person with some remainder to come from virtual tickets
+
+
+### Sponsorship
+- Alden leading this
+- Douglas talking to AWS
+- Douglas: Claire still has about $7K at CU that she has offered can be used for the conference. That might be a source for travel support. ==Still in conversation with AWS for ECR Support, and can pursue ESA and Future Earth.==
+- Andrew: would be good to get BAS, ECMWF, Met Office, NOC ? Scott: rather unlikely
+    - These should be reached by our current mailling lists and slack.
+
+### Agenda
+- [Agenda draft planning doc (google drive)](https://docs.google.com/document/d/18Vf6gkvkfuPlLuDWFHi1CHnaCpyTGYRd/edit?usp=sharing&ouid=100098223339378762434&rtpof=true&sd=true) 
+    - ==Douglas will look into it and liaise with Cass & Katy==
+
+
+
+
+### AOB
+* ==Any volunteers for reviewing submissions?==
+    * Cass (data sets only probably, as less domain expertise)
+    * Guillaume 
+    * Anastase
+    * Orlands
+    * Robert
+
+- Accomodation block booking
+    - Need to make a block-booking with a Turing contract
+        - No viable options within Turing travel expenses caps (FA cup semifinal and london marathon)
+        - Block booking of 70 rooms at Holiday Inn at £32k
+        - We can book for speakers via Gray Dawes, but suggest that we do not block book for attendees
+            - A list of suggested hotels would be acceptable
+            - And travel suggestions
+        
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+# Meeting 2024-01-18
+## Attendees
+- Christian Fernandez Perotti
+- Cass
+- Scott
+- Katy Thompson
+- Marla Fuchs
+- Robert Rouse
+
+## Apologies
+## Notes
+- Present as Cambridge and Turing joining up, to raise support 
+- Scott as Chair of 2024 can only make decisions for this year - setting up for next year's Chair
+
+### 2023 sponsors
+- Last Sponsorship from:
+    - CUP (drinks of poster session - money goes directly to vendor) - they might be interested again
+    - Amazon
+    - Schmidt Futures
+    - [Full sponsors/partners listed in the programme, page 19](https://cambridge-iccs.github.io/climate-informatics-2023/assets/CI2023%20programme%20handbook.pdf)
+- "few thousand pounds from each sponsor"
+
+#### 2025 venues
+- Where in the Global South
+    - ICCS has some centres (?)
+    - Latin America is favourable
+    - Some networks in Africa
+        - Christian and Marla attended WCRP conference (Rwanda - visa restictions are minimal). 
+        - Not clear that there is strong engagement / overlap with research areas
+        - [African Institute of Mathematical Sciences](https://nexteinstein.org)
+    - Marla has a lot of Indian contacts
+
+- Investigate a few options and put together proposals for steering group
+- Importance of network already being in place - need to have good turn-out from local
+- Note Turing has only completed due diligence with India and South Africa
+
+### 2024 considerations
+- Suggest that this year's "ask" is part of a package to secure commitment from them for 2025 too. 
+- CI has their own budget. Any incoming sponsorship would be held by them
+- Sonsors want to back a "specific thing", e
+    - Postor session drinks
+    - Networking event (potentially off-site)
+    - Online presence (GatherTown)
+    - Travel for speakers from global south, especially hosts of 2025
+- Co-badge a sponsor request template ICCS & Turing
+- Schmidt Futures
+    - Marla - being a grantee can make the funds transfer lengthy
+    - Alden has some connection
+
+- **Note any new sponsors for 2024 will also need to do the Turing Due Diligence Review which is quite lengthy (at least a month in Katy's experience)**
+
+- Criteria for selection
+    - Local network
+    - Ethical / political stability
+    - Transport hub
+    - Visa restrictions
+    - ==Christian to share his criteria information==
+    - Add existing Turing relationships (e.g. existing due diligence analysis)
+    - ==Cass work on this together==
+
+
+- ==Scott: Let CI Steering committee know that we're doing this - get sign off==
+
+- Alden: Need to make the asks for 2024 asap. They might want us to come back seperate for 2025 (different fiscal year)
+    - Important to make ground into 2025 sponsorship now, so it does not start too late
+    - Make the ask explicit that this will enable participation in the GS, ideally hosting in 2025, but could move to 2026
+    - Want 1 donantion now that we can hold on to.
+
+- Turing Partnerships might not want us asking for funding now for the 2025 conference, unless we are hosting it...
+    - CI doesn't exist as an entity, so the ask has to come from Turing 
+    - Turing could still be the lead for 2025, just the venue host would be in a different country
+        - Could make it a strong Turing-ICCS collaboration for 2025
+        - De-risks the 2025 if Turing takes lead on it
+        - Continuity of leadership in organisation would be valuable
+        - Proposa Turing as "convieners" of 2025
+
+- Scott in a meeting with parnerships and Allaine
+    - ==Alden to speak with Xander==
+    - Maybe Marla/ICCS in early conversations to keep it close 
+
+- ==Alden & Christian draft a proposal (async) and circulate==
+
+- ==Cass make sure Marla and Robert are in CI slack and org group==
+
+- Scott unlikely to be able to attend these conversations, but keep updated.
+- Can CI accept money?
+    - Would it have to be held in Turing's bank account?
+        - ==Alden and Katy to investigate==
+
+
+### Updates on issues/actions
+### AOB
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+# Meeting 2023-12-08
+
+## Attendees
+- Alden
+- Lelle
+- Guillaume
+- Meghna
+- Douglas
+- Andrew Hyde
+- Alejandro
+- Christian
+- Scott
+
+## Apologies
+- 
+
+
+## Notes
+- Welcome and intros of new folks
+    - Andrew Hyde (Cambridge University Press)
+    - Alden
+    - Christian (ICCS)
+- [ ] - 
+
+### Updates on issues/actions
+#### Github invites
+- resent to folks below - ==please accept==
+    - Andrew M (@ampersandmcd)
+    - Anastase (@AnastaseAlex)
+- new invite to:
+    - @orlando-code
+
+== Send new invite to Meghna (@asthanameghna)==
+
+
+#### Offline discussions to continue
+- ==online participation issue => continue discussion action in Jan==
+    - ==Lelle to research Gather town pricing for the full week==
+    - Make some online engagement opportunities before the conference
+    - Make it a real positive 
+- ==reproducibility issue continue offline==
+- ==Promoting Turing==
+
+#### Speaker suggestions
+- Suggestions for speakers and panelists [spreadsheet](https://docs.google.com/spreadsheets/d/1CzovkiJRy4_R6lhmKstja6OSAd8ZRXhESDtG5Lo0QSc/edit#gid=0)
+- Try to have one ECR plenary 
+- Diversity of climate applications
+- Last year 2 keynote per day. 2022 5 keynotes
+- ==Get email invites out to next week==
+    - aim for 2 speakers on the website asap
+    - Peter Dueben
+    - Alberto Arribas-Herranz now back inthe UK and might be able to join this year
+    - ==Douglas and Scott to identify first 2 big names to invite==
+    - ==**Pull template for speaker invite from 2023 materials**==
+
+#### Venue
+- invoice now fully approved
+- ==They need to reserve package  for virtual speakers by late February==
+    - We need to do decide/confirm if we will have remote presenters. Cass: I think this would be a good inclusion if possible
+    - Extra cost is £2400 for 3 days
+
+#### Develop programme
+- Have it better aligned with submission types of EDS. 
+    - This could be included in the submission information
+    - Would make it better aligned with the special issue
+    - Description of datasets needs clarifying
+- Perspective commentary?
+    - Op Ed style, highlighting the issues of a field (challenges etc.)
+    - Yes, we like this idea :)
+- A reproducibilty artefact which we can co-design with CUP
+    - How we can include this in the abstract submission/reivew
+    - Make this opt-in, with a guideline of the reproducibilty review process
+- CMT determine tracks:
+    - Extended abstracts (2 pages)
+        - References don't count towards limit
+        - Reviewers felt this still wasn't enough to decide on full merit 
+        - This year build in more flexibility on length and more detail on what we're looking for
+            - ==Douglas will draft instuctions for authors==
+                - ==All to review==
+    - Full paper
+        - types of submissions to match
+    - Short abstracts
+
+- Social and networking activities
+    - ==Collect options for dinner venues==
+    - Alden suggested Gas House 
+    - Drinks reception and dinner costed into BMA house on day 1
+    - ==Make a few options for social/drinks on other nights==
+    - Poster session previously held during the drinks reception. If we have this in the physical space, need an online equivalent
+        - Online coordinate for virtual poster session to be at the same time
+        - ==Would be nice if gathertown was available before the conference too, so everyone is online==
+
+#### Submission information
+- When are we opening submissions? Douglas has links to the submission system
+    - System is approved
+    - ==Aim for next friday==
+        - ==Douglas setting this up==
+        - ==Douglas will draft on Google doc with a link in the github==
+            - ==All to comment on this==
+            - Include published policy from EDS
+
+
+#### Promotion materials
+- AGU next week starting Monday next week ==confirm date== - use this meeting to promote CI2024 submissions
+    - ==Lelle and Cass to put together a poster which can be distributed (in print) ASAP!==
+        - Logo, QR code.
+        - ==Send to Andrew Hyde for printing at the conference==
+    - CUP has a booth which can carry flyers
+
+
+
+#### Open review
+- integrating open review with CMP
+
+#### Committee
+- Sketch out a plan and send to steering group for reivew
+- ==Christian wroite a proposal==
+    - Add this to stanging agenda for this meeting:
+        - Selection of international / Global South partners
+        - Local hosting options
+        - Key considerations from ICCS
+
+
+### AOB
+- Next meeting 5th January
+- 
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
