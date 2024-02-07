@@ -33,6 +33,7 @@ navbar-links:
     # - Training: "training"
     # - Hackathon: "hackathon"
   Submissions: 
+    - Author Guide: "author-guide"
     - Submit: "submit"
     # - Review: "review"
   Register: "register"
