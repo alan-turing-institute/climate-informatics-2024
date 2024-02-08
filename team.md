@@ -3,32 +3,56 @@ layout: page
 title: Team
 ---
 
-The core organising committee are volunteers and previous contributors to the Climate Informatics Community. 
+Organising contributors to this conference are the members of [Turing Environment and Sustainability Grand Challege](https://www.turing.ac.uk/research/environment-and-sustainability) Operations team, and the [Climate Informatics Community](http://www.climateinformatics.org). 
 
-If you would like to support and engage with the delivery of this meeting, we'd live to hear from you! Please [Contact Us!](../contact)
+If you would like to support or engage with the delivery of this meeting, we'd live to hear from you! Please [Contact Us!](../contact)
 
 ## Local organising committee
-- Chair: [Scott Hosking](https://www.turing.ac.uk/people/researchers/scott-hosking)
-- [Alden Conner](https://www.turing.ac.uk/people/business-team/alden-conner)
-- Secretary: [Léllé Demertzi](https://www.turing.ac.uk/people/business-team/lelle-demertzi)
-- Treasurer: [Katy Thompson](https://www.turing.ac.uk/people/business-team/katy-thompson)
-- EDI Champion: [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag)
-- ECR Champions: <mark>Coming soon: name and profile link</mark> 
-- Reproducibility Champion: <mark>Coming soon: name and profile link</mark> 
-- Online Participant Champion: <mark>Coming soon: name and profile link</mark> 
+- [Alden Conner](https://www.turing.ac.uk/people/business-team/alden-conner) (Partnerships)
+- [Léllé Demertzi](https://www.turing.ac.uk/people/business-team/lelle-demertzi) (Secretary)
+- [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag) (EDI Champion)
+- [Scott Hosking](https://www.turing.ac.uk/people/researchers/scott-hosking) (Chair)
+- [Katy Thompson](https://www.turing.ac.uk/people/business-team/katy-thompson) (Treasurer)
+- Marla Fuchs
+- Christian Fernandez Perotti
+- Robert Rouse
 
-## Programme committee
-- Chair: [Douglas Rao](https://ncics.org/people/douglas-rao/)
-- Cambridge University Press
+## Online participation
+- [Orlando Timmerman](https://biomin.esc.cam.ac.uk/people/2023-Orlando-Timmerman/)
+- [Meghna Asthana](https://www.turing.ac.uk/people/meghna-asthana)
+
+## Reproducibility
+- [Alejandro Coca Castro](https://www.turing.ac.uk/people/researchers/alejandro-coca-castro)
+- [Andrew Hyde](https://www.linkedin.com/in/andrew-hyde-b8913957/?originalSubdomain=uk) (Open Access publishing)
+- [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag)
+- [Dominic Orchard](https://dorchard.github.io)
+- [Marion Weinzierl](https://iccs.cam.ac.uk/about-marion-weinzierl)
+- [Roly Perera](https://dynamicaspects.org/research/)
+
+# Programme Committee
+- [Alejandro Coca Castro](https://www.turing.ac.uk/people/researchers/alejandro-coca-castro)
+- [Guillaume Couairon](https://gcouairon.github.io)
+- [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag)
+- [Andrew McDonald](https://ampersandmcd.com/)
+- [Douglas Rao](https://ncics.org/people/douglas-rao/) (Chair)
+- [Orlando Timmerman](https://biomin.esc.cam.ac.uk/people/2023-Orlando-Timmerman/)
+
+## Communications
+- [Léllé Demertzi](https://www.turing.ac.uk/people/business-team/lelle-demertzi) (Secretary)
+- [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag) (website)
+- [Andrew Hyde](https://www.linkedin.com/in/andrew-hyde-b8913957/?originalSubdomain=uk) (Open Access publishing)
+- [Andrew McDonald](https://ampersandmcd.com/) (Social media)
+- [Ricardo Barros Lourenço](https://about.me/ricardobarroslourenco) 
 
 ## Steering Group
 - [Claire Monteleoni](https://www.colorado.edu/faculty/claire-monteleoni/)
 - [Jakob Runge](https://www.jakob-runge.com)
 - [Eniko Szekely](https://www.datascience.ch/people/eniko-szekely)
-- Anastase Alexandre Charantonis <mark>Coming soon: profile link</mark>
+- Anastase Alexandre Charantonis
 
-## Governance
-Governance processes for these committees are detailed here <mark>Coming soon: Governance link</mark>
+
+<!-- ## Governance
+Governance processes for these committees are detailed here <mark>Coming soon: Governance link</mark> -->
 
 <br>
 
