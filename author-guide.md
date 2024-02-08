@@ -7,14 +7,19 @@ title: Author Guide
 <br>
 # Submissions close 9 Feb!
 
-**Quick guide**
-- [1. Are you submitting research or proposing a panel?](#presentation-formats)
-- [2. What sort of work is it? Application, methods, data or position paper?](#research-submission-types)
-- [3. Are you submitting a full paper (for publication in the conference proceedings) or an abstract?](#research-submission-tracks)
-- [4. Suggested open science practices](#open-science-policy)
-- [5. Submission portal: Microsoft CMT](#submission-portal)
-- See also: [Publication of conference proceedings](#publication-of-conference-proceedings)
+<hr>
+**Quick guide**: You will need to be able to answer these questions on the [submittion portal](../submit):
+1. Are you submitting [research or proposing a panel?](#presentation-formats)
+2. What sort of work is it? [Application, methods, data or position paper?](#research-submission-types)
+3. Are you submitting a [full paper](#research-submission-tracks) (to be publised in [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science)) or an [abstract](#research-submission-tracks)?
 
+**Additional guidance**:
+- [Suggested open science practices](#open-science-policy)
+- [Publication of conference proceedings](#publication-of-conference-proceedings)
+<hr>
+
+
+<br>
 ## Presentation formats
 
 We welcome submission of your research for presentation at CI2024, and proposals for panel discussions! 
@@ -82,11 +87,12 @@ You are welcome to submit in a text format of your choosing.
 
 Climate Informatics supports open science. We encourage authors to follow best practice in open science when conducting and reporting on their research. 
 
-We encourage all authors to submit their research with an accompanying [project repository - see this guide from the Turing Way Community](https://the-turing-way.netlify.app/project-design/project-repo) - for example on GitHub.
+We encourage all authors to submit their research with an accompanying project repository, for example on GitHub.
 
-Please refer to the following guides from The Turing Way and include each compnant in your repository:
-- [License](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-checklist)
-- [Digital Object Identifier](https://the-turing-way.netlify.app/communication/citable/citable-steps.html?highlight=doi) 
+Please refer to the following guides from **_The Turing Way_** to prepaer your project repository:
+- [How to create a project repository](https://the-turing-way.netlify.app/project-design/project-repo)
+- [Including a License](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-checklist)
+- [Creating a Digital Object Identifier](https://the-turing-way.netlify.app/communication/citable/citable-steps.html?highlight=doi) 
 
 Please do not hesitate to [contact us](../contact) if you would like to discuss this process. 
 
