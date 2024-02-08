@@ -30,7 +30,7 @@ Past panel topics include uncertainty and trust, enhancing the diversity of the 
 
 You will be asked to provide an abstract, nominate panelists (3-5) and a moderator, and identify a format (in-person, remote or hybrid).
 
-**Submit your panel discussion proposal via [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by _9 February 2024 (Anywhere on Earth [AoE])_**. 
+**Submit your panel discussion proposal via [Microsoft Conference Management Toolkit (CMT)](https://cmt3.research.microsoft.com/CI2024). All submissions should be made by _9 February 2024 ([Anywhere on Earth](https://time.is/Anywhere_on_Earth))_**. 
 
 
 ### Research submissions
