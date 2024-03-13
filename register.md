@@ -6,7 +6,7 @@ title: Register for CI2024!
 
 **Registration now open!**
 
-<mark>Please visit [The Alan Turing Institute event page](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=146256&eventID=358&traceRedir=2) to register for the conference.</mark>
+Please visit [The Alan Turing Institute event page](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=146256&eventID=358&traceRedir=2) to register for the conference (see the "Register now" link in the side menu).
 
 For authors who submitted to the conference, **_please wait until receiving the final notifications about your submission (will be sent by March 14)_**.  
 
