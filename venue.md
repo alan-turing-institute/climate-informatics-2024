@@ -21,6 +21,6 @@ Nearest tube/train:
 * Eurostar (10 min walk)
 
 ## Where to stay
-<mark>[Accommodation options](https://drive.google.com/file/d/1nqZhj24x_IZrsrZA2NWoKlg_hVn9nIyJ/view?usp=sharing)</mark>
+[Accommodation options](https://drive.google.com/file/d/1nqZhj24x_IZrsrZA2NWoKlg_hVn9nIyJ/view?usp=sharing)
 
 
