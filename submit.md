@@ -22,3 +22,4 @@ We invite both new and previous participants in this conference to review the gu
 
 
 
+[Open pdf](https://github.com/alan-turing-institute/climate-informatics-2024/blob/file_hosting/Spatial%20Heterogeneity%20of%20Air%20Pollution%20Statistics%20in%20Europe.pdf){:target="_blank"}
