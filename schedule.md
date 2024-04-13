@@ -146,6 +146,7 @@ function showScheduleForDay(day) {
             </tr>
         </table>
     </div>
+    <h5><a href="#anchor_top">Jump to top of schedule</a></h5>
 </div>
 
 <div id="schedule-04-23" class="schedule-block">
@@ -247,6 +248,7 @@ function showScheduleForDay(day) {
             </tr>
         </table>
     </div>
+    <h5><a href="#anchor_top">Jump to top of schedule</a></h5>
 </div>
 
 <div id="schedule-04-24" class="schedule-block">
@@ -332,16 +334,18 @@ function showScheduleForDay(day) {
             <tr>
                 <td>15:50-16:05</td>
                 <td>
-                    <div>Closing remarks for Day 3 and conference clsoe (Cassandra Gould van Praag) </div>
+                    <div>Closing remarks for Day 3 and conference close (Cassandra Gould van Praag) </div>
                 </td>
-            </tr>            
+            </tr> 
         </table>
     </div>
+    <h5><a href="#anchor_top">Jump to top of schedule</a></h5>
+
 </div>
 
 <div class="schedule-leave-space-before-footer">
 </div>
-<a href="#anchor_top">Jump to top of schedule</a>
+
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
 
