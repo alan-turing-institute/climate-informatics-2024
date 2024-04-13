@@ -1352,11 +1352,13 @@ time.start-time, time.end-time {
 }
 
 .schedule-content table td {
-  text-align: center;
+  /* text-align: center; */
+  text-align: left;
 }
 
 .schedule-leave-space-before-footer {
-  margin-top: 550px;
+  /* margin-top: 550px; */
+  margin-top: 1200px;
 }
 
 @media only screen and (max-width: 500px) {
