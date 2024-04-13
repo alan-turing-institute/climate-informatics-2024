@@ -6,11 +6,9 @@ title: Register for CI2024!
 
 **Registration now open!**
 
-Please visit [The Alan Turing Institute event page](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=146256&eventID=358&traceRedir=2) to register for the conference (see the "Register now" link in the side menu).
+Please visit [The Alan Turing Institute event page](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=146256&eventID=358&traceRedir=2) to register for the conference by 17 April 2024.
 
-For authors who submitted to the conference, **_please wait until receiving the final notifications about your submission (will be sent by March 14)_**.  
-
-**CI2024 will take place 22nd-24th April 2024, in [BMA House](https://bmahouse.org.uk), London, UK.**
+**CI2024 will take place 22nd-24th April 2024, in [BMA House](https://bmahouse.org.uk), London, UK and online.**
 
 Add a "save the date" to your calendar here: <a title="Add to Calendar" class="addeventatc" data-id="rw19409406" href="https://www.addevent.com/event/rw19409406" target="_blank">Add to Calendar</a> <script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
