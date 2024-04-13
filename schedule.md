@@ -44,16 +44,15 @@ function showScheduleForDay(day) {
   <div id="day-04-24" class="schedule-day" onclick="showScheduleForDay('04-24')">24 April 2024</div>
 </div>
 
-<h5 style="text-align: center;">
+<h5 style="text-align: center;" id="anchor_top">
 <!-- <mark>Coming soon: Full schedule information will be shared soon!</mark> -->
 
 <p>
 <b><i>CI2024 will take place 22-24 April 2024, in <a href="https://bmahouse.org.uk">BMA House</a>, London, UK and online.</i></b> 
 <!-- <br><br><b>Add a "save the date" to your calendar here:</b> <a title="Add to Calendar" class="addeventatc" data-id="rw19409406" href="https://www.addevent.com/event/rw19409406" target="_blank">Add to Calendar</a> <script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script> -->
 <br><br>Please visit <a href="https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=146256&eventID=358&traceRedir=2" target="_blank">The Alan Turing Institute event page</a> to register by 17 April 2024.
-</p>
 
-<!-- <p>UTC</p> -->
+</p>
 </h5>
 
 <div id="schedule-04-22" class="schedule-block">
@@ -342,6 +341,7 @@ function showScheduleForDay(day) {
 
 <div class="schedule-leave-space-before-footer">
 </div>
+<a href="#anchor_top">Jump to top of schedule</a>
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
 
