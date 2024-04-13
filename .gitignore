@@ -1,21 +1,5 @@
-# project
-_site
-.sass-cache
-.vagrant
+# Addapted from The Turing Way: https://github.com/the-turing-way/the-turing-way/blob/main/.gitignore
 
-# general
-.DS_Store
-Thumbs.db
-ehthumbs.db
-
-Gemfile.lock
-
-beautiful-jekyll-theme-*.gem
-.idea/
-.jekyll-cache
-
-
-# recreated from https://github.com/the-turing-way/the-turing-way/blob/main/.gitignore
 # Project management files that should not be in public VC
 .secrets/*
 
@@ -23,7 +7,7 @@ beautiful-jekyll-theme-*.gem
 .DS_Store
 
 # Large, binary files
-workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
+# workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
 
 # Compiled files
 **/__pycache__/
