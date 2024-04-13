@@ -39,9 +39,11 @@ layout: base
           {% for talk in talks %}
             <span>
                 <h4><i> {{ talk.TalkTitle }} </i></h4>
-                <h5><a target="_blank" href="{{talk.Link}}">Talk abstract</a> - {{ talk.Date }} </h5>
-                <h5>Theme: {{talk.Theme}}</h5>
-                <h5>Format: {{talk.TalkFormat}}</h5>
+                <!-- <h5><a target="_blank" href="{{talk.Link}}">Talk abstract</a> - {{ talk.Date }} </h5> -->
+                <!-- <h5>Theme: {{talk.Theme}}</h5>
+                <h5>Format: {{talk.TalkFormat}}</h5> -->
+                <h6>{{talk.Date}}</h6>
+                <p>{{talk.Abstract}}</p>
                 <br>
 
             </span>
