@@ -8,7 +8,7 @@ ShortBio: Dr. David John Gagne II is a Machine Learning Scientist II and head of
 Website: https://staff.ucar.edu/users/dgagne
 Twitter: 
 Github: 
-permalink: "/speakers/daivid-john_gagne.html"
+permalink: "/speakers/david-john_gagne.html"
 layout: speaker_page
 ---
 
