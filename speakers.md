@@ -4,10 +4,10 @@ title: Speakers
 ---
 
 
-We are excited to host a wonderful list of speakers for Climate Informatics 2024.
+We are excited to host a wonderful collection of speakers for Climate Informatics 2024.
 They will be contributing to Keynotes, Panel Discussions, and Research Talks.
 
-Click on a speaker below to see their bio. <mark> Abstract details coming soon!</mark>
+Click on a speaker below to see their bio and talk abstracts.
 
 <br>
 
