@@ -10,9 +10,9 @@ All attendees, speakers, sponsors, and volunteers at Climate Informatics 2024 ar
 ## Reporting
 Please contact any or all of the team below to report any concerns or incidents relating to potential breaches of the Code of Conduct:
 - Cassandra Gould van Praag: cgouldvanpraag@turing.ac.uk
-- <mark>Coming soon: Non-Turing person </mark>
+- Douglas Rao: douglas_rao@ncsu.edu
 - Scott Hosking: shosking@turing.ac.uk
-- <mark>Coming soon: Turing Events Lead </mark>
+- Katy Thompson: kthompson@turing.ac.uk
 
 
 ## THE QUICK VERSION
