@@ -73,7 +73,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>10:30-11:00</td>
                 <td>
-                    <div><a href="" target="_blank"></a> Welcome remarks (Scott Hosking)</div>
+                    <div>Welcome remarks <a href="../team#mcs-and-session-chairs">(Scott Hosking)</a></div>
                 </td>
             </tr>
             <tr>
@@ -91,7 +91,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>12:30-13:35</td>
                 <td>
-                    <div>On Societal-relevant Applications</div>
+                    <div>On Societal-relevant Applications (Chair <a href="../team#mcs-and-session-chairs">Alden Conner</a>)</div>
                     <div>
                     <ol>
                     <li><a href="../speakers/isabelle_tingzon.html">Mapping Housing Stock Characteristics from Drone Images for Climate Resilience in the CaribbeanAnnotations via NIDM-Terms Fosters Improved Search of OpenNeuro Datasets (Isabelle Tingzon)</a></li>
@@ -110,7 +110,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>16:45-17:30</td>
                 <td>
-                    <div>On Hydrology modelling</div>
+                    <div>On Hydrology modelling (Chair <a href="../team#mcs-and-session-chairs">Kenza Tazi</a>)</div>
                     <div>
                     <ol>
                     <li><a href="../speakers/peter_miersch.html"> Sensitivity analysis of causal discovery on simulated river flood data using non-linear conditional independence testing (Peter Miersch)</a></li>
@@ -135,13 +135,13 @@ function showScheduleForDay(day) {
             <tr>
                 <td>17:25-17:35</td>
                 <td>
-                    <div>Closing remarks for Day 1 (Scott Hosking)</div>
+                    <div>Closing remarks for Day 1 <a href="../team#mcs-and-session-chairs">(Scott Hosking)</a></div>
                 </td>
             </tr>
             <tr>
                 <td>18:15-onwards</td>
                 <td>
-                    <div>“Climate Quizformatics” at Impact Hub, Euston (in-person attendees only)</div>
+                    <div>“Climate Quizformatics” at Impact Hub, Euston (in-person attendees only, Hosts (<a href="../team#mcs-and-session-chairs">Katy Thompson</a> and <a href="../team#mcs-and-session-chairs">Andrew McDonald</a>)</div>
                 </td>
             </tr>
         </table>
@@ -167,7 +167,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>09:30-09:35</td>
                 <td>
-                    <div>Welcome back (Orlando Timmerman and Andrew McDonald)</div>
+                    <div>Welcome back (<a href="../team#mcs-and-session-chairs">Orlando Timmerman</a> and <a href="../team#mcs-and-session-chairs">Andrew McDonald</a>)</div>
                 </td>
             </tr>
             <tr>
@@ -179,7 +179,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>10:40-11:45</td>
                 <td>
-                    <div>On Weather & climate modeling</div>
+                    <div>On Weather & climate modeling (Chair <a href="../team#mcs-and-session-chairs">Douglas Rao</a>)</div>
                     <div>
                     <ol>
                     <li><a href="../speakers/oscar_key.html"> Scalable Data Assimilation with Message Passing (Oscar Key)</a></li>
@@ -198,7 +198,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>12:15-13:15</td>
                 <td>
-                    <div>Panel: Perspectives on Practical Reproducibility in Climate Science (<a href="../speakers/marion_weinzierl.html">Marion Weinzierl</a>, <a href="../speakers/dominic_orchard.html">Dominic Orchard</a>, <a href="../speakers/alejandro-coca-castro.html">Alejandro Coca-Castro</a>)</div>
+                    <div>Panel: Perspectives on Practical Reproducibility in Climate Science (<a href="../speakers/marion_weinzierl.html">Marion Weinzierl</a>, <a href="../speakers/dominic_orchard.html">Dominic Orchard</a>, <a href="../speakers/alejandro-coca-castro.html">Alejandro Coca-Castro</a>, Chair <a href="../team#mcs-and-session-chairs">Cassandra Gould van Praag</a>)</div>
                 </td>
             </tr>
             <tr>
@@ -216,7 +216,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>15:45-16:45</td>
                 <td>
-                    <div>Lightning talks</div>
+                    <div>Lightning talks (Chair <a href="../team#mcs-and-session-chairs">Meghna Asthana</a>)</div>
                     <div>
                     <ol>
                     <li><a href="../speakers/kenza_tazi.html"> Precipitation prediction from large-scale climatic features over the Upper Indus Basin using Gaussian Processes (Kenza Tazi)</a></li>
@@ -237,7 +237,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>17:50-18:00</td>
                 <td>
-                    <div>Closing remarks for Day 2 (Orlando Timmerman and Andrew McDonald)</div>
+                    <div>Closing remarks for Day 2 (<a href="../team#mcs-and-session-chairs">Orlando Timmerman</a> and <a href="../team#mcs-and-session-chairs">Andrew McDonald</a>)</div>
                 </td>
             </tr>
             <tr>
@@ -269,13 +269,13 @@ function showScheduleForDay(day) {
             <tr>
                 <td>09:30-09:35</td>
                 <td>
-                    <div>Welcome back (Cassandra Gould van Praag)</div>
+                    <div>Welcome back (<a href="../team#mcs-and-session-chairs">Cassandra Gould van Praag</a>)</div>
                 </td>
             </tr>
             <tr>
                 <td>09:35-10:40</td>
                 <td>
-                     <div>Lightning talks</div>
+                     <div>Lightning talks (Chair <a href="../team#mcs-and-session-chairs">Guillaume Couairon</a></div>
                     <div>
                     <ol>
                     <li><a href="../speakers/fiona_turner.html"> Building probabilistic projections of the Antarctic contribution to global sea level rise using a random forest emulator (Fiona Turner)</a></li>
@@ -297,7 +297,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>11:10-12:10</td>
                 <td>
-                    <div>Panel: Ethics and Explainability in Climate AI: From Theory to Practice (<a href="../speakers/elizabeth_barnes.html">Elizabeth Barnes </a>, <a href="../speakers/david-john_gagne.html">David-John Gagne</a>, <a href="../speakers/galen_mckinley.html">Galen McKinley</a>, <a href="../speakers/savannah_thais.html">Savannah Thais</a>)</div>
+                    <div>Panel: Ethics and Explainability in Climate AI: From Theory to Practice (<a href="../speakers/elizabeth_barnes.html">Elizabeth Barnes </a>, <a href="../speakers/david-john_gagne.html">David-John Gagne</a>, <a href="../speakers/galen_mckinley.html">Galen McKinley</a>, <a href="../speakers/savannah_thais.html">Savannah Thais</a>, Chair <a href="../team#mcs-and-session-chairs">Viviana Acquaviva</a>)</div>
                 </td>
             </tr>
             <tr>
@@ -309,7 +309,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>13:10-14:15</td>
                 <td>
-                    <div>On Aerosol & Atmospheric Applications</div>
+                    <div>On Aerosol & Atmospheric Applications (Chair <a href="../team#mcs-and-session-chairs">Ricardo Barros Lourenço</a>)</div>
                     <div>
                     <ol>
                     <li><a href="../speakers/elena_fillola.html">Accelerating GHG emissions inference using Graph Neural Networks (Elena Fillola)</a></li>
@@ -334,7 +334,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>15:50-16:05</td>
                 <td>
-                    <div>Closing remarks for Day 3 and conference close (Cassandra Gould van Praag) </div>
+                    <div>Closing remarks for Day 3 and conference close (<a href="../team#mcs-and-session-chairs">Cassandra Gould van Praag</a>)</div>
                 </td>
             </tr> 
         </table>
