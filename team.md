@@ -7,24 +7,38 @@ Organising contributors to this conference are the members of [Turing Environmen
 
 If you would like to support or engage with the delivery of this meeting, we'd live to hear from you! Please [Contact Us!](../contact)
 
+
+## MCs and Session Chairs
+- [Alden Conner](https://www.turing.ac.uk/people/business-team/alden-conner)
+- [Andrew McDonald](https://ampersandmcd.com/)
+- [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag)
+- [Douglas Rao](https://ncics.org/people/douglas-rao/)
+- [Guillaume Couairon](https://gcouairon.github.io)
+- [Katy Thompson](https://www.turing.ac.uk/people/business-team/katy-thompson)
+- [Kenza Tazi](https://www.bas.ac.uk/profile/kenzi22/)
+- [Meghna Asthana](https://www.turing.ac.uk/people/meghna-asthana)
+- [Orlando Timmerman](https://biomin.esc.cam.ac.uk/people/2023-Orlando-Timmerman/)
+- [Ricardo Barros Lourenço](https://about.me/ricardobarroslourenco) 
+- [Scott Hosking](https://www.turing.ac.uk/people/researchers/scott-hosking)
+- [Viviana Acquaviva](https://www.drvivianaacquaviva.com)
+
+
 ## Local organising committee
-- [Alden Conner](https://www.turing.ac.uk/people/business-team/alden-conner) (Partnerships)
+- [Scott Hosking](https://www.turing.ac.uk/people/researchers/scott-hosking) (Chair)
+- [Katy Thompson](https://www.turing.ac.uk/people/business-team/katy-thompson) (Treasurer & Events Lead)
 - [Léllé Demertzi](https://www.turing.ac.uk/people/business-team/lelle-demertzi) (Secretary)
 - [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag) (EDI Champion)
-- [Scott Hosking](https://www.turing.ac.uk/people/researchers/scott-hosking) (Chair)
-- [Katy Thompson](https://www.turing.ac.uk/people/business-team/katy-thompson) (Treasurer)
-- Marla Fuchs
-- Christian Fernandez Perotti
-- Robert Rouse
+- [Alden Conner](https://www.turing.ac.uk/people/business-team/alden-conner) (Partnerships)
 
 ## Online participation
 - [Orlando Timmerman](https://biomin.esc.cam.ac.uk/people/2023-Orlando-Timmerman/)
 - [Meghna Asthana](https://www.turing.ac.uk/people/meghna-asthana)
+- [Katy Thompson](https://www.turing.ac.uk/people/business-team/katy-thompson)
+- [Léllé Demertzi](https://www.turing.ac.uk/people/business-team/lelle-demertzi)
 
 ## Reproducibility
 - [Alejandro Coca Castro](https://www.turing.ac.uk/people/researchers/alejandro-coca-castro)
 - [Andrew Hyde](https://www.linkedin.com/in/andrew-hyde-b8913957/?originalSubdomain=uk) (Open Access publishing)
-- [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag)
 - [Dominic Orchard](https://dorchard.github.io)
 - [Marion Weinzierl](https://iccs.cam.ac.uk/about-marion-weinzierl)
 - [Roly Perera](https://dynamicaspects.org/research/)
@@ -36,10 +50,13 @@ If you would like to support or engage with the delivery of this meeting, we'd l
 - [Andrew McDonald](https://ampersandmcd.com/)
 - [Douglas Rao](https://ncics.org/people/douglas-rao/) (Chair)
 - [Orlando Timmerman](https://biomin.esc.cam.ac.uk/people/2023-Orlando-Timmerman/)
+- Marla Fuchs
+- Christian Fernandez Perotti
+- Robert Rouse
 
 ## Communications
 - [Léllé Demertzi](https://www.turing.ac.uk/people/business-team/lelle-demertzi) (Secretary)
-- [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag) (website)
+- [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag) (Website)
 - [Andrew Hyde](https://www.linkedin.com/in/andrew-hyde-b8913957/?originalSubdomain=uk) (Open Access publishing)
 - [Andrew McDonald](https://ampersandmcd.com/) (Social media)
 - [Ricardo Barros Lourenço](https://about.me/ricardobarroslourenco) 
