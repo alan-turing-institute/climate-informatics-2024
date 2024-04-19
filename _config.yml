@@ -35,6 +35,7 @@ navbar-links:
   Submissions: 
     - Author Guide: "author-guide"
     - Submit: "submit"
+    - Artefact Evaluation: "artefact-evaluation"
     # - Review: "review"
   Register: "register"
   # FAQ: "faq"
