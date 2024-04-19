@@ -210,7 +210,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>14:30-15:45</td>
                 <td>
-                    <div>Virtual poster exhibition and afternoon refreshments</div>
+                    <div>Virtual <a href="https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=150913&ef_sel_menu=2179&eventID=358">poster exhibition</a> and afternoon refreshments</div>
                 </td>
             </tr>
             <tr>
