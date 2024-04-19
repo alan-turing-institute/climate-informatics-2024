@@ -5,6 +5,8 @@ description: Organising for Climate Informatics 2024
 
 # Climate Informatics 
 
+
+
 :::spoiler **Expand for Contents**
 [TOC]
 :::
@@ -30,6 +32,327 @@ description: Organising for Climate Informatics 2024
 ```
 ==Actions are highlighted yellow==
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+
+# Meeting 2024-04-19
+## Attendees
+- Doug
+- Cass
+- Lelle
+- Scott
+- Katy
+- Alejandro
+- Orlando
+- Andrew M
+- Meghna
+- Guillaume
+- Andrew H
+
+## Apologies
+
+## Notes
+- Catering deadline has passed, so cannot add more in-person
+- Last push for online attendees
+- Online registration closes Saturday
+    - If anyone asks, join our mailing list and/or slack and you will be notified when it is shared publicly online. 
+- [Scripts for chairs](https://docs.google.com/document/d/1LbJyuur6nK3vGr7z0tAYKZhArmp1uew5o3meJ5LS9zA/edit?usp=sharing)
+    - These will be/are sent out to Chairs by Katie
+- Day 3 dinner/pint - Scott will be around, Cass leaving london around 7pm
+- Day 3 expect folks to be a bit slow in the morning :)
+- ==ADD INFO in one-day-to-go email: Let people know that they space is already active and they can stroll around, to log in in advance and set up their profiles==
+- About a month later? ==Touch-base with CI steering committe post-conference== or chat with Claire in person for next steps and lessons learned
+
+#### Artefact Evaluation
+- TIMELINE
+    - 1 week onboarding + 4 weeks review
+    - Start June-July or September-October
+    - Decision not yet made
+
+### Updates on issues/actions
+
+### AOB
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+# Meeting 2024-04-12
+## Attendees
+* Alejandro Coca Castro
+* Lelle Demertzi
+* Cass
+* Katy Thompson
+* Yuhan Douglas Rao
+* Guillaume Couairon
+* Meghna Asthana
+* Orlando
+
+## Apologies: 
+* Scott Hosking
+* Alden
+
+
+## Notes
+
+### Reproducibility
+* [GitHub repository](https://github.com/alan-turing-institute/climate-informatics-2024-ae/issues/1)
+* Three speakers confirmed (Cass chairing, Alejandro, Marion, Dominic speaking, one more pending, first invitee did not respond, moving to plan B)
+* Artefact Evaluation
+    * HotCRP platform for review-assessment-comms with authors
+    * Recruitment of potential reviewers: REG, ICC, CI2024 call, E&S GC community pool
+    * Information session outside the CI2024 programme
+
+### Posters
+- Rooms which were to be used for catering overspill to explore posters (IRL and online) in a quiet space
+- The main conference space will be used for in person presenters
+- Deadline Wednesday 17th
+
+
+### Participant Comms 
+- Online moderators
+    - Cass
+    - Katy
+    - Lelle
+- Slido
+    - ==This should be moderated==
+- Broadcast of stage content through youtube
+    - AV team at BMA house well set
+    - Do we want the chat open on youtube?
+        - Don't want to clog up slido 
+    - Unlisted broadcast
+- Turing E&S slack
+    - For post meeting conversation
+    - ==Cass happy to add people based on their sign-up email
+    - ==Form on HyHyve to be added on Turing space?: https://forms.office.com/e/fDnC5pR9Zc==
+    - Let's try and stick with HyHyve chat ?
+    - Something as simple as a shared google doc?
+- Expect live online conversationto happen on hyhyve, slack for whole group conversations
+
+### Chairs
+- Make sure gender balance
+- Something fun non-technical for Scott's 1st day intro
+        
+### This afternoon's event on HyHive
+* Working on microsoft edge, chrome, safari
+    * ipad/mobile ok
+* Welcome speaker?
+    * Scott to give welcome
+* Who will be there for tech help?
+
+
+From Slack:
+* Maintaining an online community:
+~~* Free Slack workspace?
+    * Onboarding on Slack prior to conference from registration emails?~~
+* Final feedback on map
+* Recording:
+    * What are we recording, what are we not?
+* Feedback survey 
+
+
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+# Meeting 2024-03-15
+## Attendees
+* 
+* Lelle Demertzi
+* Cass
+* Katy Thompson
+* Yuhan Douglas Rao
+* Guillaume Couairon
+* Scott Hosking
+* 
+
+## Apologies: 
+* xx
+* xx
+## Notes
+
+#### Programme
+* New addition: Lighting talks for ECRs and students (5min)
+* Poster session online, capacity depends on virtual setup
+* HiHive
+    * Payment on track (some complexities!)
+    * We can start buikding virtual space
+    * Need Programme Managers signiture as payment won't be finished until after March
+    * Capacity 
+        * Maximal technical is 2000
+        * around 200 is our current expectation 
+    * Orlando creating the map space with as many posters we need -==map by next meeting to discuss==
+        * [Maps examples](https://hyhyve.notion.site/517e4518406f4011ba21b11fcc3ff2ac?v=db6aaa471d974caa90f9d2b6df956de9)
+    * Cass: range and variety/quality are not necessarily the prioririty -more about experience
+    * Douglas: maybe not in one timeslot, can we spread the activity across sessions, all posters available throughout
+    * Orlando: There is the possibility to have one poster room trhoughout, discussions can be activated during the event time
+    * Scott: How to best cluster the activities? And use the opportunity for promotion and online sales boost?
+    * Alden: team up by logicistics, time-zones, themed sessions, rooms/days
+    * Andrew: Environmental themed based on submissions content? Something more visually appealing than 'color' zones eg green zone
+
+
+### Optimising online poster scheduliong
+- Cosiderations
+    - Themeing of content
+    - author time zones
+
+
+### Next steps with programming
+- Douglas not to email people to say they've bene accepted - need to confirm programme first
+- Want to give some thought to it 
+    - talk length, day,..
+    - ==Cass and Katy to confirm requirements==
+- Prioritise international/visas, 'Turing people' can wait a bit longer
+- Full papers will be prioritised as we've been able to get a fuller review
+    - received 19 full paper sumbissions
+- Need to finalise chairs for the day
+
+### Social plans
+- Venue booked for pub quiz
+    - Impact hub, in Euston
+    - Andrew volunteered
+    - Anyone else to join quiz planning team?
+        - Alden
+        - Cass
+        - Bea will be the host!
+- Dinner
+    - Getting in dietary requirements
+    - Seating plan?
+        - Mitigation: vegeterian/vegan card
+    - DJ? Playlist?
+    - Do we have a sponsor for the dinner/drinks reception?
+        - Andrew: CUP would be happy to?
+        - CUP already doing access fund, so also look elsewhere.
+
+### Sponsorship
+- Sponsors need to be Turing approved, or directly pay the venue
+- Need to make an ask to Turing partners
+- Consider developing relationships at AIUK
+- Pull details from last years sponsors, inc contact name/email.
+- Douglas can chase amazon contact
+- =="Menu" of things that could be covered==
+    - Logo (where/when? inc online)
+    - Drinks reception
+    - access fund
+    - Tiered sponsorship
+- Start a table of sponsors and contacts
+    - [Turing "collaborators"](https://www.turing.ac.uk/partnering-turing/current-partnerships-and-collaborations)
+    - Maybe research centres on our university network
+    - Aim to pull in two or three!
+    - ==Cass pull from our stakeholder map==
+    - OpenClimate Fix
+
+==CUP desk at reception==
+
+#### Reproducibility challenge
+- Day 2
+- One speaker confirmed, more in scope
+- 
+
+- 
+
+### Other panels
+#### Climate-Health Panel
+- Cass suggested panel following up on Turing climate-public health workshop
+- Make sure it focuses on the **informatics** part of the challenge
+#### Eco impact of research 
+- Suggested by Doug? 
+- Cass has some speaker links on this topic
+    - Please chase if anyone wants to pursue!
+
+### Scriberia or other illustrator?
+- Orlando suggests: https://acceleratescience.github.io/assets/uploads/ai-for-science-summit-11-12-december-2023-graphics.pdf
+- Katy factored Scriberia into the contingency plan!
+
+
+Actions Recap: between now and next meeting:
+- Programme nail-down
+- Draft version of space and familiarisation
+- 5-10 emails out for sponsorships
+- ==Meeting rescheduling for Thursday 28th==
+
+
+# Meeting 2024-02-16
+## Attendees
+Christian Fernandez Perotti
+Lelle Demertzi
+Guillaume Couairon
+Katy Thompson
+Yuhan Douglas Rao
+## Apologies: 
+Alden
+Cass
+Scott
+Meghna
+## Notes
+### Review process
+89 submissions, 1 keynote proposal, 1 panel discussion on ethics of AI in E&S
+(19 full papers, and rest extended abstracts)
+43 review in 2 weeks time, possibility of extentions
+Notification day could be pushed back by a week (to 1st March)
+### Programme planning
+#### Panel discussion topics
+Any follow-ups on suggested topics?
+#### Number of talk slots available & poster event
+* Draft [Agenda](https://docs.google.com/spreadsheets/d/1eA27A8xgoZsweGoPkBh1p2C4fCiLNVnhdFKOR4favWE/edit#gid=911939187)
+* In-person posters
+* Possibility of an online agenda in parallel to harvest the opportunity of the large amount of submissions
+### Updates on issues/actions
+#### Online platform
+Online teem meeting notes in detail [here](https://hackmd.io/egXgvD5rQoKFl1_t7bGJ5w?edit)
+* **HyHyve**, meeting 13.02.24
+    * Provided demo and [quote](https://8956916.hs-sites.com/dD6IANG7QtraPbCHY0Q0)  €1,569.90 (with 3h onborading and 3h technical support) -monthly subscription, cancel any-time Business Plan
+    * Customizable maps, they can provide templates and Orlando could design map
+    * Direct broadcasting from venue, or through YouTube live (private link)
+    * Live space 24/7 but video minutes are not charged unless broadcasting/videomeeting
+    * One-time email verification and GDPR compliant.
+* **Topia**, tried to contact
+    * Test conference world demo
+    * $100/month for 20 users, and $5/month for every additional user in increments of 10 up to 100
+    * Comprehensive quidelines for customising worlds
+
+Could someone pay directly for HyHyve? Douglas: Claire said okay to pay for venue, the virtual space falls within it, will copy Lelle in to take it further with CU Boulder.
+
+Orlando: Hybrid poster session to draw engagement to online posters? Douglas: to link into submission stats for which prefer in person and which online. Can it work both ways simultaneously? Probably not at the same time.
+Katy: Online conference weeks before the event, with points of interest, some activities, walk-through and meet-n-greet (see her message on Slack)
+
+How does HyHyve work with embedding documents and comments for poster sessions?
+
+#### Reproducibility challenge
+[Link to issue](https://github.com/alan-turing-institute/climate-informatics-2024/issues/12)
+2 meetings have taken place this year to establish topics, focusing on the full papers.
+Checklist in progress
+Scoping budget  
+Creating more visibility of reproducibility in CI2024, a panel on computational artifacts and assessment with reproducibility people
+Online: maybe ways to harvest it as an opportunity?
+Immediate action: Reproducibility challenge to create awareness and get reviewers.
+Review and training post-conference.
+
+
+#### Day hosts 
+- Welcome
+- Introducing all speakers through the day
+- Chairing questions (unless panel moderator)
+- Better quality of experience for the particiapnts
+    - Host will get briefing note
+    - Action: Sort of reference wordings for chairs for each day
+- Someone who is going to be there and wants to be visible
+- Should be someone who
+- Event's team typically plant's questions, generic fall backs
+- Senior researchers will be too busy. Good opportunity for visibility
+    - Turing researchers in E&S, ECRs
+- Gets a comp ticket
+- Katy would like Scott to be opening day (Turing)
+- Someone from CI?
+- Open out to our organiser team
+     - Get it in peoples calendars for e.o. Month
+
+#### AOB
+- Andrew to send out tweets
+- Let's not switch of the radar on global south engagement
+    - ==Douglas: Summary of submission stats to come==
+- Access fund
+    - Alejandro: offer online some tickets for free?
+- Speaker expenses forecast
+- ==Action Lelle: Poster space in BMA?==
+- 1/3 oral presentations and 2/3 posters
 
 # Meeting 2024-02-02
 
