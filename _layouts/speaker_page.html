@@ -21,7 +21,8 @@ layout: base
         <tr style="border: none"> 
         <td style="border: none">
         <span> <h1>{{ page.Name }} {% if page.Pronouns %} <i>({{ page.Pronouns }})</i> {% endif %}</h1></span>
-        <h4> {{page.Job}}, {{ page.Affiliation }} </h4>  
+        <h4> {{ page.Affiliation }} </h4>  
+        <!-- <h4> {{page.Job}}, {{ page.Affiliation }} </h4>   -->
         <p> {{ page.ShortBio | markdownify }} </p>
         <h4>
             {% if page.Twitter %} <a target="_blank" href="https://twitter.com/{{ page.Twitter }}"><i class="fa fa-twitter fa-2x" style="position: relative;text-indent:0px;  vertical-align: middle; margin-left:4px; margin-right:4px;"></i></a> {% endif %}
