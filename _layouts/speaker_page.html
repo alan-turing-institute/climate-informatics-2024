@@ -20,8 +20,9 @@ layout: base
         <table style="border: none">
         <tr style="border: none"> 
         <td style="border: none">
-        <span> <h1>{{ page.Name }} {% if page.Pronouns %} <i>({{ page.Pronouns }})</i> {% endif %}</h1></span>
-        <h4> {{ page.Affiliation }} </h4>  
+        <span> <h1>{{ page.Name }}</h1></span>
+        <h4>{% if page.Pronouns %} <i>({{ page.Pronouns }})</i> {% endif %}</h4>
+        <h3> {{ page.Affiliation }} </h3>  
         <!-- <h4> {{page.Job}}, {{ page.Affiliation }} </h4>   -->
         <p> {{ page.ShortBio | markdownify }} </p>
         <h4>
