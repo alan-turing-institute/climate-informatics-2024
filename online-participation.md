@@ -21,12 +21,14 @@ The sidebar in HyHye is a great tool for quickly moving between the participant 
 ## Map spaces
 
 ### Posters
-There is an Action Element for each poster (listed alphabetically) if you know where you want to go. Take a look at the [full poster listing](https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=150913&ef_sel_menu=2179&eventID=358) to find your favorites! 
+There is an Action Element for each poster (listed alphabetically) if you want to get there directly! Take a look at the [full poster listing](https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=150913&ef_sel_menu=2179&eventID=358) to find your favorites! Scroll through the Action Element list, or use the search bar to find the one you're looking for! 
 
-You can also  also browse through posters collected by theme: Air, Water, Ice and Grass ("grass" is soil, agriculture, and everything else!). Move to the relevant corner of the map for each, or jump to the directory for that theme to open a pdf list of all posters in that corner!
+You can also  also browse through posters collected by theme: Air, Water, Ice and Grass ("grass" is soil, agriculture, and everything else!). Move to the relevant corner of the map for each, or jump to the directory for that theme via the Action Elements (e.g. "Air Poster Room Directory"). This will open a pdf list of all posters in that corner - walk into the room and find posters at each marked location! When you get to a poster, you can directly open the poster in the HyHyve window! 
 
 ### Main Livestream audience
-Each of the schedule points in the [programme](../programe) will be streamed from the middle-top of the HyHyve map. The Action Element will be renamed for each point, e.g. it will be called "Welcome" first on Day 1, then "Keynote", then "On Societal-relevant Applications" (first set of short talks). Use the search bar at the top of the Action Element list to quickly find the schedule point your looking for, or just stay at the top of the map!
+Each of the schedule points in the [programme](../programe) will be streamed from the middle-top of the HyHyve map. 
+
+The Action Element for the main livestream will be renamed for each programme point, e.g. it will be called "Welcome" first on Day 1, then "Keynote", then "On Societal-relevant Applications" (first set of short talks), and so on throughout the conference. Use the search bar at the top of the Action Element list to quickly find the schedule point your looking for, or just stay at the top of the map!
 
 ### Meeting rooms and worktables 
 Feel free to make plans with your colleagues to meet in these spaces to talk or work on something together! Make your arrangements in [slack on #ci-2024](../contact#slack), via HyHve group or direct messages, or any other way you like!
