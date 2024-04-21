@@ -25,11 +25,13 @@ navbar-links:
     # - Access: "access"
     - Team: "team"
     # - Contribute: "contribute"
+    - Sustainability: "sustainability"
   Program:
     #- Self-Nominations: "submit"
     - Schedule: "schedule"
     - Speakers: "speakers"
     - Venue: "venue"
+    - Online Participation: "online-participation"
     # - Training: "training"
     # - Hackathon: "hackathon"
   Submissions: 
