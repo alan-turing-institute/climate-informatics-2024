@@ -8,18 +8,20 @@ Remote participants will be able to follow and interact with presentations virtu
 
 **Registered participants will receive a link to join the HyHye space via email - please do not stare this link on any public forums or channels!**
 
-On HyHyve, you will navigate through the online conference space using an avatar, and interact with others by text, audio and video when you are near other avatars. Check out the [map spaces](#map-spaces) below to see what to expect in each different space, or jump to the [HyHyve FAQ](#hyhyve-faq). The [sidebar](#sidebar-navigation) is really helpful for working with the different features of HyHyve!
+On HyHyve, you will navigate through the online conference space using an avatar, and interact with others by text, audio and video when you are near other avatars. Look to the [sidebar](#sidebar-navigation) to work with the different features of HyHyve!
+
+Check out the [map spaces](#map-spaces) below to see what to expect in each different space, or jump to the [HyHyve FAQ](#hyhyve-faq). 
                 
 <img src="../img/hyhyve-map.png" alt="CI2024 remote participant HyHyve space">
 
 
 ## Sidebar navigation
-The sidebar in HyHye is a great tool for quickly navigating through the different spaces (called "Action Elements"), jumping between the participant list and chat, and quickly enabling/disabling your microphone and camera.
+The sidebar in HyHye is a great tool for quickly moving between the participant list and chat, and enabling/disabling your microphone and camera. The location icon will take you to the "Action Elements", which are direct links to live streams, posters and programmes. 
 
 ## Map spaces
 
 ### Posters
-There is an Action element for each poster (listed alphabetically) if you know where you want to go. Take a look at the [full poster listing](https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=150913&ef_sel_menu=2179&eventID=358) to find your favorites! 
+There is an Action Element for each poster (listed alphabetically) if you know where you want to go. Take a look at the [full poster listing](https://www.eventsforce.net/turingevents/frontend/reg/tOtherPage.csp?pageID=150913&ef_sel_menu=2179&eventID=358) to find your favorites! 
 
 You can also  also browse through posters collected by theme: Air, Water, Ice and Grass ("grass" is soil, agriculture, and everything else!). Move to the relevant corner of the map for each, or jump to the directory for that theme to open a pdf list of all posters in that corner!
 
@@ -30,7 +32,7 @@ Each of the schedule points in the [programme](../programe) will be streamed fro
 Feel free to make plans with your colleagues to meet in these spaces to talk or work on something together! Make your arrangements in [slack on #ci-2024](../contact#slack), via HyHve group or direct messages, or any other way you like!
 
 ### Away / AFK area
-Come to the "away from keyboard" (AFK) area if you want to stay connected to HyHye but aren't available to chat! This will speed things up when you want to rejoin (save logging in!) and keep your message history! Note, if someone in is away/AFK, don't be disappointed if they don't speak to you!
+Come to the "away from keyboard" (AFK) area if you want to stay connected to HyHye but aren't available to chat! This will speed things up when you want to rejoin (save logging in!) and keep your message history! If someone is in the "away/AFK" area, don't be disappointed if they don't speak to you!
 
 
 ## HyHyve FAQ
