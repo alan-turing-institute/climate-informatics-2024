@@ -1,10 +1,10 @@
 ---
 Name: Arjun Biswas
 Title: 
-Pronouns:  
+Pronouns: He/Him
 Job: 
 Affiliation: University of Exeter
-ShortBio: 
+ShortBio: Arjun Biswas is a PhD student at the university of Exeter. His research is based on Large Language Models for Climate Communication.
 Website: 
 Twitter: 
 Github: 

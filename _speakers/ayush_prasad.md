@@ -1,10 +1,10 @@
 ---
 Name: Ayush Prasad
 Title: 
-Pronouns:  
+Pronouns: He/Him
 Job: 
 Affiliation: Finnish Meteorological Institute
-ShortBio: 
+ShortBio: Ayush is a Master's student studying computational science at the University of Helsinki. He also works at the Finnish Meteorological Institute on the application of machine learning for cryosphere.
 Website: 
 Twitter: 
 Github: 
