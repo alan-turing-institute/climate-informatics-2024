@@ -19,7 +19,7 @@ They recognise the importance of sustainability and place environmental best pra
 
 
 ## Hybrid offering
-<img align="left" src="../img/chris-montgomery-smgtvepind4-unsplash-modified.png" alt="laptop screen showing an online view call with multiple participants" width="40%">
+<img align="right" src="../img/chris-montgomery-smgtvepind4-unsplash-modified.png" alt="laptop screen showing an online view call with multiple participants" width="40%">
 
 Travel is the main source of emissions generated during an event.
 
@@ -46,4 +46,4 @@ We hope you're able to join us and implement greener options in your time with u
 - Returning your name badge at the end of your conference days so we can reuse for future events
 - Unless you find it more helpful, scanning our QR code at the event to access the agenda digitally instead of printing your own
 - Promoting sustainable best practice with fellow attendees and,
-- Giving us feedback! Let us know where we might be missing out via email (climate-informatics-2024@turing.ac.uk) or the #ci-2024 Slack channel
+- Giving us feedback! Let us know where we might be missing out via email (climate-informatics-2024@turing.ac.uk) or the [#ci-2024 Slack channel](../contact#slack)
