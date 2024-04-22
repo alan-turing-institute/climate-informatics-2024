@@ -13,7 +13,7 @@ We invite you to contact us using any of the methods below.
 <!-- <img align="left" src="../img/mattermost-logo.svg" alt="mattermost" width="3.5%">&nbsp;Mattermost: <a href="https://mattermost.brainhack.org/brainhack/channels/hbm-open-science-room">hbm-open-science-room</a> -->
 
 ## Slack
-This conference is being supported by the Turing Environment and Sustainability Grand Challenge. Please [complete this form](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-ZmEJNLHTHVFkqQ97AaCfn9UQk1HVUlGMUxZVzYzT0pBTEFMVEhBTDlUQy4u) if you would like to be added to the Turing Environment and Sustainability Grand Challenge slack workspace. We have a dedicated channel for discussions about #ci-2024, and feel free to say "Hi!" on #welcome!
+This conference is being supported by the Turing Environment and Sustainability Grand Challenge. Please [complete this form](https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=p_SVQ1XklU-Knx-672OE-ZmEJNLHTHVFkqQ97AaCfn9UNU1PMUo4QkdYWTdXR0VPRlZSRjJQTktRWC4u) if you would like to be added to the Turing Environment and Sustainability Grand Challenge slack workspace. We have a dedicated channel for discussions about #ci-2024, and feel free to say "Hi!" on #welcome!
 
 
 <!-- During the meeting you will be able to identify members of the OSR team at named locations in the virtual environment. We are working towards supporting both text and one-to-one video chat between attendees and the OSR team. We will provide more details on this as they emerge! -->
