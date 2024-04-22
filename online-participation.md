@@ -33,6 +33,9 @@ The Action Element for the main livestream will be renamed for each programme po
 ### Meeting rooms and worktables 
 Feel free to make plans with your colleagues to meet in these spaces to talk or work on something together! Make your arrangements in [slack on #ci-2024](../contact#slack), via HyHve group or direct messages, or any other way you like!
 
+### Social and games area
+Come here if you'd like to relax and socialise with fellow meeting attendees! Hang out on the sofas or round the foosball table, or join one of the chess boards to play online!
+
 ### Away / AFK area
 Come to the "away from keyboard" (AFK) area if you want to stay connected to HyHye but aren't available to chat! This will speed things up when you want to rejoin (save logging in!) and keep your message history! If someone is in the "away/AFK" area, don't be disappointed if they don't speak to you!
 
