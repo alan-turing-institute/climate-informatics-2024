@@ -108,7 +108,7 @@ function showScheduleForDay(day) {
                 </td>
             </tr>
             <tr>
-                <td>16:45-17:30</td>
+                <td>16:45-15:55</td>
                 <td>
                     <div>On Hydrology modelling (Chair <a href="../team#mcs-and-session-chairs">Kenza Tazi</a>)</div>
                     <div>
