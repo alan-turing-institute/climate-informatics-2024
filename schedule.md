@@ -223,7 +223,7 @@ function showScheduleForDay(day) {
                     <li><a href="../speakers/marc_girona-mata.html">Spatially-Coherent Probabilistic Downscaling of Daily Precipitation in Ungauged Mountain Locations: A Transfer Learning Study in the Swiss Alps and the Langtang Valley, Nepal (Marc Girona-Mata)</a></li>
                     <li><a href="../speakers/ilenia_manco.html">Machine Learning for Stochastic Parametrisation (Ilenia Manco)</a></li>
                     <li><a href="../speakers/peter_manshausen.html">Predicting visible ship tracks (Peter Manshausen)</a></li>
-                    <li><a href="../speakers/daria_botvynko.html">Predicting visible ship tracks (Daria Botvynko)</a></li>
+                    <li><a href="../speakers/daria_botvynko.html">Deep Learning for Lagrangian Drift Simulation on Sea Surface (Daria Botvynko)</a></li>
                     </ol>
                     </div>                
                 </td>
