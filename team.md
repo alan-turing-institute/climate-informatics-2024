@@ -39,6 +39,7 @@ If you would like to support or engage with the delivery of this meeting, we'd l
 ## Reproducibility
 - [Alejandro Coca Castro](https://www.turing.ac.uk/people/researchers/alejandro-coca-castro)
 - [Andrew Hyde](https://www.linkedin.com/in/andrew-hyde-b8913957/?originalSubdomain=uk) (Open Access publishing)
+- [Cassandra Gould van Praag](https://www.turing.ac.uk/people/researchers/cassandra-gould-van-praag)
 - [Dominic Orchard](https://dorchard.github.io)
 - [Marion Weinzierl](https://iccs.cam.ac.uk/about-marion-weinzierl)
 - [Roly Perera](https://dynamicaspects.org/research/)
