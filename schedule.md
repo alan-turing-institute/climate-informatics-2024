@@ -198,7 +198,7 @@ function showScheduleForDay(day) {
             <tr>
                 <td>12:15-13:15</td>
                 <td>
-                    <div>Panel: Perspectives on Practical Reproducibility in Climate Science (<a href="../speakers/marion_weinzierl.html">Marion Weinzierl</a>, <a href="../speakers/dominic_orchard.html">Dominic Orchard</a>, <a href="../speakers/alejandro-coca-castro.html">Alejandro Coca-Castro</a>, Chair <a href="../team#mcs-and-session-chairs">Cassandra Gould van Praag</a>)</div>
+                    <div>Panel: Perspectives on Practical Reproducibility in Climate Science (<a href="../speakers/marion_weinzierl.html">Marion Weinzierl</a>, <a href="../speakers/dominic_orchard.html">Dominic Orchard</a>, <a href="../speakers/alejandro_coca-castro.html">Alejandro Coca-Castro</a>, Chair <a href="../team#mcs-and-session-chairs">Cassandra Gould van Praag</a>)</div>
                 </td>
             </tr>
             <tr>
