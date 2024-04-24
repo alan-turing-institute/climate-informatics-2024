@@ -327,13 +327,13 @@ function showScheduleForDay(day) {
                 </td>
             </tr>
             <tr>
-                <td>15:50-16:05</td>
+                <td>15:20-15:50</td>
                 <td>
                     <div>Closing remarks for Day 3 and conference close (<a href="../team#mcs-and-session-chairs">Cassandra Gould van Praag</a>)</div>
                 </td>
             </tr>
             <tr>
-                <td>15:20-15:50</td>
+                <td>15:50-16:05</td>
                 <td>
                     <div>Farewell refreshments</div>
                 </td>
