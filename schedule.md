@@ -222,7 +222,7 @@ function showScheduleForDay(day) {
                     <li><a href="../speakers/kenza_tazi.html"> Precipitation prediction from large-scale climatic features over the Upper Indus Basin using Gaussian Processes (Kenza Tazi)</a></li>
                     <li><a href="../speakers/marc_girona-mata.html">Spatially-Coherent Probabilistic Downscaling of Daily Precipitation in Ungauged Mountain Locations: A Transfer Learning Study in the Swiss Alps and the Langtang Valley, Nepal (Marc Girona-Mata)</a></li>
                     <li><a href="../speakers/ilenia_manco.html">AI-assisted Climate Downscaling of the ERA5 Reanalysis for Rapid Assessment (Ilenia Manco)</a></li>
-                    <li><a href="../speakers/peter_manshausen.html">Predicting visible ship tracks (Peter Manshausen)</a></li>
+                    <li><a href="../speakers/peter_manshausen.html"><s>Predicting visible ship tracks (Peter Manshausen) (moved to day 3)</s></a></li>
                     <li><a href="../speakers/daria_botvynko.html">Deep Learning for Lagrangian Drift Simulation on Sea Surface (Daria Botvynko)</a></li>
                     </ol>
                     </div>                
@@ -284,6 +284,7 @@ function showScheduleForDay(day) {
                     <li><a href="../speakers/harish_baki.html">Estimating high-resolution profiles of wind speeds from a global reanalysis dataset using TabNet (Harish Baki)</a></li>
                     <li><a href="../speakers/abhiraami_navaneethanathan.html">Estimating global ocean POC fluxes through machine learning and data fusion on heterogeneous and sparse in-situ observations (Abhiraami Navaneethanathan)</a></li>
                     <li><a href="../speakers/solomon_white.html">Improving ocean model generalisation by including water type classification as pre-processing to the satellite image (Solomon White)</a></li>
+                    <li><a href="../speakers/peter_manshausen.html">Predicting visible ship tracks (Peter Manshausen)</a></li>
                     </ol>
                     </div> 
                 </td>
