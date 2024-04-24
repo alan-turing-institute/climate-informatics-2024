@@ -333,7 +333,7 @@ function showScheduleForDay(day) {
                 </td>
             </tr>
             <tr>
-                <td>15:50-16:05</td>
+                <td>15:50-16:45</td>
                 <td>
                     <div>Farewell refreshments</div>
                 </td>
