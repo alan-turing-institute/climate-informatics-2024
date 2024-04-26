@@ -1,7 +1,7 @@
 ---
 Name: Marc Girona-Mata
 Title: 
-Pronouns:  
+Pronouns: He/Him
 Job: 
 Affiliation: University of Cambridge
 ShortBio: 
